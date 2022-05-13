@@ -7,10 +7,10 @@
         span 1 
       h1 Requisitos normativos y de calidad
 
-    .fondo1.pt-5.mb-4
+    .fondo1.pt-5.mb-4(data-aos="fade-left")
       .row.justify-content-center
         .col-xl-3.p-0    
-          img(src='@/assets/curso/tema1/img02.png')       
+          img.mb-3.mb-lg-0(src='@/assets/curso/tema1/img02.png')       
         .col-xl-7.px-5.d-flex.align-items-center(style="background-color: #F1F6EA")          
             p.mb-0 Existe un permiso que otorga la CAR, donde se concede el derecho a aprovechar bosques naturales ubicados en terrenos de dominio público o privado, para así legalizar estos cultivos y que su respectiva recolección sea de manera estructurada, con el objetivo de generar mejor calidad de los productos.
 
@@ -21,7 +21,7 @@
       
       p.mb-4 Esta parte comprende la extracción, la producción, la transformación, el procesamiento y la comercialización de los productos no maderables. A continuación, se describirán todos estos procesos por los cuales pasan dichos productos.
 
-      .row.justify-content-center.mb-5 
+      .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-12.col-xl-3
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/img03.png' alt='AvatarTop')            
@@ -38,26 +38,26 @@
                 p.mb-0 Hace referencia al acopio, la selección de productos, la limpieza, el empaque, la transformación y la elaboración de productos. 
         .col-12.col-xl-3
           .tarjeta-avatar
-            img(src='@/assets/curso/tema1/img04.png' alt='AvatarTop')            
+            img(src='@/assets/curso/tema1/img05.png' alt='AvatarTop')            
             .tarjeta.color-primario              
               .p-3
                 h4.text-center Mercadeo
                 p.mb-0 Es la comercialización de las materias primas o productos finales obtenidos.
 
-    .row.justify-content-center.mb-4
-      .col-6
+    .row.justify-content-center.mb-4(data-aos="fade-left")
+      .col-12
         p.text-center Todo esto lo realizan empresas comunitarias o privadas, laboratorios o cooperativas, con servicios de apoyo, como son:
 
-    .row.justify-content-center.align-items-center
-      .col-2
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-6.col-lg-2
         img(src='@/assets/curso/tema1/img06.svg')            
-      .col-4
+      .col-12.col-lg-4
         p.mb-0.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Investigación
         p.mb-0.px-4.py-1 <span style="color: #942E19">●</span> Capacitaciones
         p.mb-0.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Financiación planes de manejo
         p.mb-0.px-4.py-1 <span style="color: #942E19">●</span> Estrategias para desarrollo 
         p.mb-0.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Fortalecimiento de dichas instituciones                
-      .col-2
+      .col-6.col-lg-2
         img(src='@/assets/curso/tema1/img07.svg') 
 
     Separador           
@@ -65,22 +65,22 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2. Características de producto y métodos de embalaje 
 
-    p.mb-4 Para poder explicar este apartado, se dará un ejemplo de un producto no maderable que se ha vuelto muy popular en los últimos años, ya sea como producto comestible o para la industria de belleza. Se habla del asaí recolectado en el Amazonas.
-    p.mb-5 De esta plantación, se sabe que varía a lo largo del año, de acuerdo con las condiciones climáticas del terreno; la recolección se concentra en los meses de abril y junio, y se tiene un promedio de producción de 1-5 racimos por planta, lo cual quiere decir que se puede recolectar 9,5 kg por cada una. Después de dicha recolección, los frutos de asaí pasan por unas etapas que son necesarias para la calidad del producto final; a continuación, se mencionan en la siguiente figura:
+    p.mb-4(data-aos="fade-left") Para poder explicar este apartado, se dará un ejemplo de un producto no maderable que se ha vuelto muy popular en los últimos años, ya sea como producto comestible o para la industria de belleza. Se habla del asaí recolectado en el Amazonas.
+    p.mb-5(data-aos="fade-right") De esta plantación, se sabe que varía a lo largo del año, de acuerdo con las condiciones climáticas del terreno; la recolección se concentra en los meses de abril y junio, y se tiene un promedio de producción de 1-5 racimos por planta, lo cual quiere decir que se puede recolectar 9,5 kg por cada una. Después de dicha recolección, los frutos de asaí pasan por unas etapas que son necesarias para la calidad del producto final; a continuación, se mencionan en la siguiente figura:
 
     .titulo-sexto.color-acento-contenido
       span Proceso asaí.
 
-    figure.mb-5 
+    figure.mb-5(data-aos="fade-left") 
       img(src='@/assets/curso/tema1/img08.svg') 
 
     p.mb-5 Los productos son recolectados por comunidades indígenas, como los Nukak Makú, quienes realizan esta actividad en grupos de personas y recolectan hasta 850 kg de asaí por día. Lo primero que se realiza es identificar las palmas que se pueden aprovechar, estas deben tener una altura superior a 10 metros y visualizarse el color del fruto. 
 
-    .row.justify-content-center.mb-5 
-      .col-xl-6.px-5.d-flex.align-items-center(style="background-color: #FFF7E3")          
+    .row.justify-content-center.mb-5(data-aos="fade-right") 
+      .col-xl-6.px-5.d-flex.align-items-center.p-3(style="background-color: #FFF7E3")          
         div 
           p.mb-4 Ellos las escalan con técnicas ancestrales para dicha recolección y venden el kg a $1.500 pesos a ASOPROCEGUA. También son quienes llevan el fruto para su debido proceso con BIOGUAVIARE, allí se hace el proceso de despulpado y empaque. 
-          p.mb-0 Este proceso se debe realizar rápido, ya que el asaí tiene una oxidación de menos de 8 horas, por lo cual requiere que sea procesado rápidamente o refrigerado.  El empaque se realiza en canastillas o costales de fibra natural hechos por los mismos indígenas.
+          p.mb-3.mb-lg-0 Este proceso se debe realizar rápido, ya que el asaí tiene una oxidación de menos de 8 horas, por lo cual requiere que sea procesado rápidamente o refrigerado.  El empaque se realiza en canastillas o costales de fibra natural hechos por los mismos indígenas.
       .col-xl-4.p-0(style="background-color: #FFF7E3")          
         img(src='@/assets/curso/tema1/img09.png')       
 
@@ -90,12 +90,12 @@
       #t_1_3.titulo-segundo.color-acento-contenido
         h2 1.3. Reglamentos y normatividad aplicada a productos no maderables del bosque 
 
-      p.mb-4 Con la normatividad, se buscan mecanismos que se puedan incorporar a la legislación colombiana, allí se encuentran elementos que facilitan el aprovechamiento y la comercialización de productos no maderables. Estas pautas deben orientar el manejo sostenible de estos productos, por lo que se deben tener en cuenta las condiciones específicas de las comunidades y los ecosistemas, para así cumplir la ley colombiana y buscar la certificación de los productos.
+      p.mb-4(data-aos="fade-left") Con la normatividad, se buscan mecanismos que se puedan incorporar a la legislación colombiana, allí se encuentran elementos que facilitan el aprovechamiento y la comercialización de productos no maderables. Estas pautas deben orientar el manejo sostenible de estos productos, por lo que se deben tener en cuenta las condiciones específicas de las comunidades y los ecosistemas, para así cumplir la ley colombiana y buscar la certificación de los productos.
 
-      .cajon.color-primario.p-4.mb-4        
+      .cajon.color-primario.p-4.mb-4(data-aos="fade-right")       
         p.mb-0 Dentro de la normatividad colombiana que se aplica a los productos no maderables, se encuentra desde su inicio la Ley 99 de 1993, el Decreto 1076 de 2015, en su artículo 2.2.1.1.3.1, adicionalmente, la Resolución 224 de 2017 y el Acuerdo CAR 28 del 30 de noviembre de 2004. Estos reglamentos dan las pautas y lineamientos necesarios que se deben utilizar desde la recolección y el aprovechamiento hasta la comercialización de los productos no maderables del bosque. 
 
-      .row.justify-content-center
+      .row.justify-content-center(data-aos="fade-left")
         .col-10
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
@@ -104,13 +104,13 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 Como el objetivo de este programa es dar a conocer la normatividad y técnicas usadas en recolección de productos forestales no maderables de los bosques colombianos, se le invita a conocer dicha reglamentación, por lo que puede acceder a los contenidos haciendo clic sobre el enlace correspondiente; solo de esta manera, usted podrá tener toda la información necesaria para posteriormente crear una propuesta sobre estos productos.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
         .tabla-b.color-acento-contenido
           table        
             tr.tabla-b__header
               th(colspan=6) 
-                h4.mb-0 Aprenda más sobre la reglamentación 
+                h4.mb-0(style="text-align: left") Aprenda más sobre la reglamentación 
               th(colspan=1) 
                 h4.mb-0 Enlace
             tr(style="background-color: white")
@@ -150,32 +150,32 @@
     #t_1_4.titulo-segundo.color-acento-contenido
       h2 1.4. Licencias y permisos 
 
-    p.mb-5 El permiso para aprovechamiento de productos no maderables es otorgado por la CAR, esta entidad es la que concede el derecho a aprovechar bosques naturales ubicados en terrenos de dominio público o privado. Es importante obtener este permiso, ya que así se puede realizar un aprovechamiento forestal adecuado y garantizar el uso optimizado de los recursos naturales dispuestos en estos lugares y la sostenibilidad de los servicios ambientales, económicos y sociales. Por lo anterior, se le invita a revisar el siguiente recurso de aprendizaje, donde podrá acceder a más contenido sobre el tema.
+    p.mb-5(data-aos="fade-left") El permiso para aprovechamiento de productos no maderables es otorgado por la CAR, esta entidad es la que concede el derecho a aprovechar bosques naturales ubicados en terrenos de dominio público o privado. Es importante obtener este permiso, ya que así se puede realizar un aprovechamiento forestal adecuado y garantizar el uso optimizado de los recursos naturales dispuestos en estos lugares y la sostenibilidad de los servicios ambientales, económicos y sociales. Por lo anterior, se le invita a revisar el siguiente recurso de aprendizaje, donde podrá acceder a más contenido sobre el tema.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-10
         .titulo-sexto.color-acento-contenido
           span Licencias y permisos. 
         
         img.mb-5(src="@/assets/curso/tema1/img13.svg")
 
-    p.mb-5 Para la solicitud de dicho permiso, se debe anexar la documentación requerida por el ente regulatorio, que consiste en: copia de la escritura pública del predio, al igual que el certificado de libertad y tradición, y un plan de manejo y aprovechamiento forestal, lo cual debe ir acompañado de un croquis a mano alzada para acceso al predio, este deber ser un plano topográfico del IGAC a escala 1:10.000, así como el costo del proyecto, obra o actividad. Todo esto está dado bajo el acuerdo CAR 023 del 2009. Para profundizar en el tema, se le invita a revisar el documento y una video clase sobre el tema. 
+    p.mb-5(data-aos="fade-left") Para la solicitud de dicho permiso, se debe anexar la documentación requerida por el ente regulatorio, que consiste en: copia de la escritura pública del predio, al igual que el certificado de libertad y tradición, y un plan de manejo y aprovechamiento forestal, lo cual debe ir acompañado de un croquis a mano alzada para acceso al predio, este deber ser un plano topográfico del IGAC a escala 1:10.000, así como el costo del proyecto, obra o actividad. Todo esto está dado bajo el acuerdo CAR 023 del 2009. Para profundizar en el tema, se le invita a revisar el documento y una video clase sobre el tema. 
     
-    .row.justify-content-center.mb-5
-      .col-8
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-12.col-lg-8
         .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-          .col-3
-            img(src="@/assets/curso/tema1/img14.svg")
-          .col-6
-            p.mb-0 Las Corporaciones Autónomas Regionales son las encargadas de dar normatividad a la ciudadanía en relación al uso de no maderables, CAR 023 del 2009.
-          .col-3
+          .col-6.col-lg-3
+            img.mb-3.mb-lg-0(src="@/assets/curso/tema1/img14.svg")
+          .col-12.col-lg-6
+            p.mb-3.mb-lg-0 Las Corporaciones Autónomas Regionales son las encargadas de dar normatividad a la ciudadanía en relación al uso de no maderables, CAR 023 del 2009.
+          .col-8.col-lg-3
             a.boton.color-acento-botones.me-0(href="https://colombia.inaturalist.org/taxa/365688-Oenocarpus-bataua" target="_blank" type="application/pdf")
               span Enlace web
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 
-    p.mb-4.text-center Video clase sobre normatividad para productos forestales no maderables del bosque en Colombia.
+    p.mb-4.text-center(data-aos="fade-left") Video clase sobre normatividad para productos forestales no maderables del bosque en Colombia.
 
-    figure
+    figure(data-aos="fade-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
@@ -246,8 +246,8 @@ export default {
       position: relative !important
     .bloque-texto-g__img
       position: absolute !important
-    .bloque-texto-g__texto
-      width: 67%
+    // .bloque-texto-g__texto
+    //   width: 67%
     .separador-container
       padding-top: 0px
     position: relative

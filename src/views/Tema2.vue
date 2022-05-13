@@ -7,13 +7,13 @@
         span 2
       h1 Requisitos normativos y de calidad
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-xl-3.p-0    
-        img(src='@/assets/curso/tema2/img01.png')       
+        img.mb-3.mb-lg-0(src='@/assets/curso/tema2/img01.png')       
       .col-xl-7.px-5.d-flex.align-items-center(style="background-color: #F1F6EA")          
         p.mb-0 Para la producción de recursos forestales no maderables, es importante tener en cuenta que para su desarrollo se necesita cumplir ciertos requisitos técnicos, los cuales son de origen natural, con el fin de cuidar y hacer sostenible el ecosistema en general. Estos tienen que ver con el equilibrio del bosque y son los encargados de regular la cantidad de precipitación de agua que se necesita para el cultivo.
 
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-0(data-aos="fade-right")
       .col-xl-10
         p.mb-0 El ecosistema está conformado por diferentes tipos de vegetación, entre ellos  los arbustos; además, es importante la cantidad de radiación o luz solar dada a la vegetación, por lo que los productos no maderables deben competir por la energía solar. Por otro lado, los suelos son otro factor a tener en cuenta y están definidos por la misma naturaleza y la descomposición de los elementos vegetales y animales.
 
@@ -22,19 +22,19 @@
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1  Logística de producción
 
-    p.mb-4 La logística de la producción para los PFNM no existe, ya que son productos que se recogen en el bosque, por la comunidad, y son utilizados para su sustento o su diario vivir. Sin embargo, hoy en día se evidencia que se han abierto algunas empresas que lo hacen de manera más comercial, por lo que ellas tendrían que usar algún tipo de estrategia para la movilidad del producto. A continuación, se presenta una propuesta de logística para este tipo de productos, por lo que se le invita a revisar el siguiente recurso de aprendizaje.
+    p.mb-4(data-aos="fade-left") La logística de la producción para los PFNM no existe, ya que son productos que se recogen en el bosque, por la comunidad, y son utilizados para su sustento o su diario vivir. Sin embargo, hoy en día se evidencia que se han abierto algunas empresas que lo hacen de manera más comercial, por lo que ellas tendrían que usar algún tipo de estrategia para la movilidad del producto. A continuación, se presenta una propuesta de logística para este tipo de productos, por lo que se le invita a revisar el siguiente recurso de aprendizaje.
 
     .titulo-sexto.color-acento-contenido
       span Logística. Proceso de logística en PFNM.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-10
         figure 
           img(src='@/assets/curso/tema2/img02.png')       
 
-    p.mb-4 Este proceso es un conjunto de medios y métodos que permite llevar a cabo la organización de una plantación, y que sirve de puente (nexo) entre la producción y el mercado. Tanto la distancia física como el tiempo separan a la actividad productiva del punto de venta; la logística se encarga de enlazar la producción y el mercado a través de sus técnicas.  
+    p.mb-4(data-aos="fade-left") Este proceso es un conjunto de medios y métodos que permite llevar a cabo la organización de una plantación, y que sirve de puente (nexo) entre la producción y el mercado. Tanto la distancia física como el tiempo separan a la actividad productiva del punto de venta; la logística se encarga de enlazar la producción y el mercado a través de sus técnicas.  
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-10
         p.mb-4 Para tener en cuenta…
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4 
@@ -44,23 +44,23 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Esta también implica las actividades de planificación y gestión de recursos, su función es implementar y controlar con eficiencia los materiales y los productos, desde el punto de origen hasta el cliente final, con la intención de satisfacer las necesidades del consumidor al menor costo posible. El mensaje clave de la logística empresarial es:  colocar los bienes y servicios en el lugar apropiado, en el momento preciso y bajos las cantidades y calidades adecuadas. 
         
-        p.mb-5 La logística en el sector forestal se puede subdividir en las siguientes etapas: 
+        p.mb-5.text-center La logística en el sector forestal se puede subdividir en las siguientes etapas: 
 
         .titulo-sexto.color-acento-contenido
           span Logística de producción.
         figure 
           img(src='@/assets/curso/tema2/img04.png')       
 
-    p.mb-4 Ahora es importante también hablar del examen de la cadena logística actual y los cuellos de botella. Colombia es un país con una topografía variable, que comprende desde relieves planos en zonas bajas o también en alta montaña hasta relieves poco quebrados a muy quebrados en zonas de media y alta montaña.  Las principales áreas con las plantaciones forestales comerciales se encuentran en zonas con las pendientes más pronunciadas.  
+    p.mb-4(data-aos="fade-left") Ahora es importante también hablar del examen de la cadena logística actual y los cuellos de botella. Colombia es un país con una topografía variable, que comprende desde relieves planos en zonas bajas o también en alta montaña hasta relieves poco quebrados a muy quebrados en zonas de media y alta montaña.  Las principales áreas con las plantaciones forestales comerciales se encuentran en zonas con las pendientes más pronunciadas.  
 
-    .row.justify-content-center.align-items-center.mb-5.py-5(style="background-color:#F6FAF0")
+    .row.justify-content-center.align-items-center.mb-5.py-5(style="background-color:#F6FAF0" data-aos="fade-right")
       .col-xl-4
-        img(src='@/assets/curso/tema2/img05.png')       
+        img.mb-3.mb-xl-0(src='@/assets/curso/tema2/img05.png')       
       .col-xl-7.p-0
         p.mb-4 La mayoría de las áreas identificadas como aptas para las plantaciones forestales poseen pendientes que limitan fuertemente cualquier actividad mecanizada, lo que condiciona la construcción de caminos, debido al alto riesgo de erosión, y dificulta la cosecha de los PFNM. Todos estos factores generan costos muy elevados, que reducen la competitividad del sector forestal. 
 
         .row.justify-content-center
-          .col-5.p-0
+          .col-11.col-md-5.px-3
             a.anexo.mb-4(style="background-color: #F6E8E4 !important" :href="obtenerLink('downloads/anexo1.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
@@ -71,39 +71,39 @@
         p.mb-0 Cuando el aprovechamiento se realiza con otros sistemas, como la tracción animal, se debe aumentar el ancho de los caminos para reducir los costos de arrastre. 
       .col-xl-1
 
-    p.mb-4 Las actividades de silvicultura, como la siembra, la fertilización, las limpiezas o las entresacas son también más costosas cuando el ancho de los caminos es menor o el terreno es más inclinado, ya que se dificultan las operaciones y el suministro de los insumos.    
+    p.mb-4(data-aos="fade-left") Las actividades de silvicultura, como la siembra, la fertilización, las limpiezas o las entresacas son también más costosas cuando el ancho de los caminos es menor o el terreno es más inclinado, ya que se dificultan las operaciones y el suministro de los insumos.    
     
-    .row.justify-content-center.align-items-center.mb-5(style="background-color: #FFF7E3")
-      .col-8.px-5
+    .row.justify-content-center.align-items-center.mb-5(style="background-color: #FFF7E3" data-aos="fade-right")
+      .col-12.col-lg-8.px-5.py-3
         p.mb-4 La construcción de caminos forestales es muy costosa en zonas de montaña. Por término medio, se construyen 30 m de camino forestal por hectárea en las zonas con pendientes mayores de 23°, y alrededor de 60 m en las zonas más llanas. Los costos de un camino con un carril (con apartaderos en caso de cruce de vehículos) suponen por término medio 51,000 USD por km, y en las zonas más llanas, 15,000 USD por km para un camino de doble carril. Los costos de acceso equivalen a 1,530 USD ha-1 en el caso de zonas montañosas y a 900 USD ha-1 en las zonas más llanas. Los costos de mantenimiento son del orden de 470 USD km-1 año-1.   
         p.mb-0 Grado de mecanización posible por región y costos de acceso por hectárea. Región potencial de mecanización (% de área) Costos de caminos – valor promedio en función de la pendiente (USD ha-1) Eje Cafetero 20 1,404 Caribe 60 1,152 Orinoquía 90 963 *Montañosa > 23° de pendiente = 30 m ha-1; llana hasta ondulada < 23° de pendiente = 60 m ha. 
-      .col-4.p-0
+      .col-6.col-lg-4.p-0
         img(src='@/assets/curso/tema2/img06.png')       
 
-    p.mb-4 La construcción de caminos en Colombia es costosa en comparación con otros países. Los prestadores de servicios tienen precios elevados, también debido al hecho de que se utilizan tecnologías de construcción anticuadas. Las máquinas usadas, especialmente en las zonas montañosas, no son las más económicas ni las mejores adaptadas para estos servicios. 
-    p.mb-4 Un problema identificado como grave es la obtención de permisos para la explotación de canteras para balastro. Para tener caminos utilizables todo el año, el uso de balastro es indispensable en el sector forestal. Los permisos tardan un año o más, lo que supone una barrera operacional intolerable.  
-    p.mb-5 Una limitante muy fuerte que influencia en gran medida los costos de transporte son las velocidades medias que pueden alcanzar los camiones en las vías sinuosas de las zonas montañosas, tanto en ascenso como en descenso. Por lo anterior, se le invita a revisar los siguientes enlaces con el fin de acceder a más información sobre el tema.
+    p.mb-4(data-aos="fade-left") La construcción de caminos en Colombia es costosa en comparación con otros países. Los prestadores de servicios tienen precios elevados, también debido al hecho de que se utilizan tecnologías de construcción anticuadas. Las máquinas usadas, especialmente en las zonas montañosas, no son las más económicas ni las mejores adaptadas para estos servicios. 
+    p.mb-4(data-aos="fade-right") Un problema identificado como grave es la obtención de permisos para la explotación de canteras para balastro. Para tener caminos utilizables todo el año, el uso de balastro es indispensable en el sector forestal. Los permisos tardan un año o más, lo que supone una barrera operacional intolerable.  
+    p.mb-5(data-aos="fade-left") Una limitante muy fuerte que influencia en gran medida los costos de transporte son las velocidades medias que pueden alcanzar los camiones en las vías sinuosas de las zonas montañosas, tanto en ascenso como en descenso. Por lo anterior, se le invita a revisar los siguientes enlaces con el fin de acceder a más información sobre el tema.
 
-    .row.justify-content-center.mb-4
-      .col-8
+    .row.justify-content-center.mb-4(data-aos="fade-left")
+      .col-12.col-lg-8
         .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-          .col-3
-            img(src="@/assets/curso/tema2/img07.svg")
-          .col-6
-            p.mb-0 Para profundizar en el tema ¨Situación actual y potencial de fomento de plantaciones forestales con fines comerciales en Colombia¨ en el siguiente enlace, página 57.
-          .col-3
+          .col-6.col-lg-3
+            img.mb-3.mb-lg-0(src="@/assets/curso/tema2/img07.svg")
+          .col-12.col-lg-6
+            p.mb-3.mb-lg-0 Para profundizar en el tema ¨Situación actual y potencial de fomento de plantaciones forestales con fines comerciales en Colombia¨ en el siguiente enlace, página 57.
+          .col-6.col-lg-3
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo2.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 
-    .row.justify-content-center
-      .col-8
+    .row.justify-content-center(data-aos="fade-right")
+      .col-12.col-lg-8
         .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-          .col-3
+          .col-6.col-lg-3
             img(src="@/assets/curso/tema2/img08.svg")
-          .col-6
+          .col-12.col-lg-6
             p.mb-0 Productos forestales no maderables: importancia e impacto de su aprovechamiento.
-          .col-3
+          .col-6.col-lg-3
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo3.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
@@ -113,39 +113,39 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Cadena productiva
 
-    p.mb-4 La Cadena Productiva Forestal (CPF) tiene la función de consolidar la alianza entre los diversos eslabones del sector forestal, con el fin de obtener beneficios colectivos e individuales y mayor competitividad; esta debe contar con los siguientes eslabones:
+    p.mb-4(data-aos="fade-left") La Cadena Productiva Forestal (CPF) tiene la función de consolidar la alianza entre los diversos eslabones del sector forestal, con el fin de obtener beneficios colectivos e individuales y mayor competitividad; esta debe contar con los siguientes eslabones:
 
-    img.mb-5(src="@/assets/curso/tema2/img09.png")
+    img.mb-5(src="@/assets/curso/tema2/img09.png" data-aos="fade-right")
 
     p.mb-4.text-center  Para conocer más sobre cada proceso y lo que implica, se le invita a revisar la siguiente figura: 
 
     .titulo-sexto.color-acento-contenido
       span Modelo de cadena productiva para producción maderera.
 
-    .imagen-adornos-flotantes.mb-5
+    .imagen-adornos-flotantes.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/tema2/img10.svg')            
       .imagen-adornos-flotantes__img1.d-none.d-xl-block: img(src="@/assets/curso/tema2/hojita1.png" style="left: 22% ; top: 5%  ; width: 103px")        
       .imagen-adornos-flotantes__img2.d-none.d-xl-block: img(src="@/assets/curso/tema2/hojita2.png" style="left: ; right: 27% ; top: 40% ; bottom: ; width: 112px ")            
       .imagen-adornos-flotantes__img3.d-none.d-xl-block: img(src="@/assets/curso/tema2/hojita3.png" style="left: 20% ; right: ; top:  ; bottom: 20% ; width: 173px ")            
 
-    p.mb-4.text-center En la cadena productiva deben intervenir diferentes actores, los cuales se definen en la siguiente gráfica:
+    p.mb-4.text-center(data-aos="fade-right") En la cadena productiva deben intervenir diferentes actores, los cuales se definen en la siguiente gráfica:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-8
         img(src='@/assets/curso/tema2/img11.svg')            
 
-    p.mb-4 Todos los actores, los beneficiarios primarios de los recursos y los actores secundarios, como las autoridades, tienen la función de hacer esta actividad sostenible en el tiempo y evitar daños al medio ambiente.
+    p.mb-4(data-aos="fade-right") Todos los actores, los beneficiarios primarios de los recursos y los actores secundarios, como las autoridades, tienen la función de hacer esta actividad sostenible en el tiempo y evitar daños al medio ambiente.
 
-    .row.justify-content-center.align-items-center.mb-4(style="background-color:#FFF7E3")
-      .col-4.p-0
+    .row.justify-content-center.align-items-center.mb-4(style="background-color:#FFF7E3" data-aos="fade-left")
+      .col-6.col-lg-4.p-0
         img(src='@/assets/curso/tema2/img12.png')            
-      .col-8
+      .col-12.col-lg-8.p-3
         p.mb-4 Hay un componente muy importante en el establecimiento de la cadena productiva y es la capacitación y formación de los actores primarios; en la medida en que se forme a los beneficiarios de los PFNM con técnicas de aprovechamiento, manejo de los productos, sistemas de empaque y transporte, el daño causado a los bosques será menor.
         p.mb-0 Las autoridades y responsables del manejo de los recursos naturales, como funcionarios públicos y actores sociales, deben legislar para que el aprovechamiento de los PFNM sea con mentalidad empresarial, no solo de sostenibilidad; esto permitirá que se obtengan mayores ingresos, lo que redundará en un manejo sostenible y una mejor calidad de vida de las personas que intervienen en la cadena productiva.
 
-    p.mb-4 Como ejemplo de una cadena productiva, se estudiará el proceso de la guadua: esta es un bambú espinoso, perteneciente a la familia Poacecae, a la subfamilia Bambusoideae y a la tribu Bambuseae. En 1820, el botánico Kunth constituye este género utilizando el vocablo “guadua” con el que los indígenas de Colombia y Ecuador se referían a este bambú. 
+    p.mb-4(data-aos="fade-left") Como ejemplo de una cadena productiva, se estudiará el proceso de la guadua: esta es un bambú espinoso, perteneciente a la familia Poacecae, a la subfamilia Bambusoideae y a la tribu Bambuseae. En 1820, el botánico Kunth constituye este género utilizando el vocablo “guadua” con el que los indígenas de Colombia y Ecuador se referían a este bambú. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-10
         .cajon.color-secundario.p-4.mb-5 
           p.mb-0 Este reúne aproximadamente 30 especies, se puede distinguir de los demás participantes por los tallos robustos y espinosos, por las bandas de pelos blancos en la región del nudo y por las hojas caulinares en forma triangular.
@@ -157,54 +157,54 @@
 
         img(src='@/assets/curso/tema2/img13.png')            
 
-    p.mb-4 En los diferentes eslabones de la cadena, intervienen los productores, los guadueros, los empresarios de preindustrialización, de secado y preservación, sociedades de ingenieros y arquitectos, artesanos, comercializadores, entre otros, según el ICA en Colombia.
+    p.mb-4(data-aos="fade-left") En los diferentes eslabones de la cadena, intervienen los productores, los guadueros, los empresarios de preindustrialización, de secado y preservación, sociedades de ingenieros y arquitectos, artesanos, comercializadores, entre otros, según el ICA en Colombia.
 
-    .row.justify-content-center.mb-5
-      .col-8
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-12.col-lg-8
         .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-          .col-3
+          .col-6.col-lg-3
             img(src="@/assets/curso/tema2/img07.svg")
-          .col-6
-            p.mb-0 Para profundizar en la cadena productiva de la guadua en Colombia, se le invita a revisar el enlace .
-          .col-3
+          .col-12.col-lg-6
+            p.mb-3.mb-lg-0 Para profundizar en la cadena productiva de la guadua en Colombia, se le invita a revisar el enlace .
+          .col-12.col-lg-3.d-flex.justify-content-center
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo4.pdf')" target="_blank" type="application/pdf")
               span Descarga
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 
-    p.mb-4 El aprovechamiento comercial de los PFNM provenientes de bosques debe seguir una lógica distinta a la de la empresa privada por diferentes razones, por lo que se le invita a revisar el siguiente recurso de aprendizaje:
-    img.mb-5(src="@/assets/curso/tema2/img14.svg")
+    p.mb-4(data-aos="fade-left") El aprovechamiento comercial de los PFNM provenientes de bosques debe seguir una lógica distinta a la de la empresa privada por diferentes razones, por lo que se le invita a revisar el siguiente recurso de aprendizaje:
+    img.mb-5(src="@/assets/curso/tema2/img14.svg" data-aos="fade-right")
 
-    p.mb-4 En contraste, la empresa privada aspira, por lo general, a maximizar sus ganancias netas. Por lo anterior, se hace necesario identificar los diferentes eslabones en la cadena productiva, los cuales se pueden observar en la siguiente figura: 
+    p.mb-4(data-aos="fade-left") En contraste, la empresa privada aspira, por lo general, a maximizar sus ganancias netas. Por lo anterior, se hace necesario identificar los diferentes eslabones en la cadena productiva, los cuales se pueden observar en la siguiente figura: 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-10
         .row.justify-content-center
           .col-xl-4.d-flex
-            .degra1.p-3.py-4
+            .degra1.p-3.py-4.mb-3.mb-xl-0.w-100
               div.px-5
                 img.mb-3(src="@/assets/curso/tema2/img15.svg")
               p.mb-0.text-center Producción (producción de planta, mantenimiento y protección) y abastecimiento.
           .col-xl-4.d-flex
-            .degra2.p-3.py-4
+            .degra2.p-3.py-4.mb-3.mb-xl-0.w-100
               div.px-5
                 img.mb-3(src="@/assets/curso/tema2/img16.svg")
               p.mb-0.text-center Producción, abastecimiento, transformación  y
           .col-xl-4.d-flex
-            .degra3.p-3.py-4
+            .degra3.p-3.py-4.w-100
               div.px-5
                 img.mb-3(src="@/assets/curso/tema2/img17.svg")
               p.mb-0.text-center Producción, abastecimiento, transformación y comercialización. 
 
-    p.mb-4.text-center Se recomienda estudiar la siguiente figura para entender los eslabones de una cadena productiva:
+    p.mb-4.text-center(data-aos="fade-left") Se recomienda estudiar la siguiente figura para entender los eslabones de una cadena productiva:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-xl-10
         .titulo-sexto.color-acento-contenido
           span Componentes de la cadena productiva.
         figure 
           img.mb-3(src="@/assets/curso/tema2/img18.svg")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-xl-3.p-0
         img.mb-3(src="@/assets/curso/tema2/img19.png")
       .col-xl-9
@@ -213,92 +213,92 @@
         p.mb-3.px-4.py-1 <span style="color: #FFC846">●</span> Las formas y los efectos del aprovechamiento que conlleven a un uso y manejo sostenible de 
         p.mb-0 Siguiendo con el tema, se hace prioritario el estudio de estos productos de una manera sistémica, por lo que se debe ir más allá del contexto ecológico y biológico, donde se involucren los componentes sociales, económicos, culturales y políticos, logrando el desarrollo de modelos predictivos que garanticen el no deterioro de estos recursos.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-10
         .bloque-texto-c.p-4(Style="background-color: #F6FAF0")
           i.fas.fa-quote-right
           h4.mb-2 En adición, los bosques tropicales, como el colombiano, en términos de diversidad ecosistémica, riqueza biológica, junto con la oferta de bienes y servicios ambientales, constituyen una parte esencial de los medios de subsistencia de las comunidades que allí habitan, tanto en aspectos de recolección como de consumo de productos vegetales naturales.
           span - Carpentier et al., 2000; Doble, 2003; Tocotín, 2005.
 
-    p.mb-4 Partiendo de lo anterior, se hace necesario estudiar las perspectivas de aprovechamiento que hoy presentan los PFNM, las cuales pueden ocasionar su sobreutilización o sobreexplotación, conllevando una declinación de las poblaciones nativas, con fuertes implicaciones ecológicas y económicas, por lo que los autores Neumann y Kirsch (2000) documentan a partir de varios estudios de caso que, a medida que aumenta la presión sobre el recurso y el número de actores implicados en su comercialización, hay un desconocimiento de criterios para su aprovechamiento y manejo sobre una base sostenible. Para conocer más sobre el tema, se le invita a revisar los siguientes recursos de aprendizaje.
+    p.mb-4(data-aos="fade-left") Partiendo de lo anterior, se hace necesario estudiar las perspectivas de aprovechamiento que hoy presentan los PFNM, las cuales pueden ocasionar su sobreutilización o sobreexplotación, conllevando una declinación de las poblaciones nativas, con fuertes implicaciones ecológicas y económicas, por lo que los autores Neumann y Kirsch (2000) documentan a partir de varios estudios de caso que, a medida que aumenta la presión sobre el recurso y el número de actores implicados en su comercialización, hay un desconocimiento de criterios para su aprovechamiento y manejo sobre una base sostenible. Para conocer más sobre el tema, se le invita a revisar los siguientes recursos de aprendizaje.
 
-    .row.justify-content-center.mb-4
-      .col-8
+    .row.justify-content-center.mb-4(data-aos="fade-right")
+      .col-12.col-lg-8
         .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-          .col-3
+          .col-6.col-lg-3
             img(src="@/assets/curso/tema2/img07.svg")
-          .col-6
-            p.mb-0 ¨Productos forestales no maderables: importancia e impacto de su aprovechamiento¨ en el siguiente enlace.
-          .col-3
+          .col-12.col-lg-6
+            p.mb-3.mb-lg-0 ¨Productos forestales no maderables: importancia e impacto de su aprovechamiento¨ en el siguiente enlace.
+          .col-12.col-lg-3.d-flex.justify-content-center
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo5.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 
-    .row.justify-content-center.mb-5 
-      .col-8
+    .row.justify-content-center.mb-5(data-aos="fade-left")
+      .col-12.col-lg-8
         .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-          .col-3
+          .col-6.col-lg-3
             img(src="@/assets/curso/tema2/img08.svg")
-          .col-6
-            p.mb-0 Estrategia sectorial de la cadena de productos no maderables del bosque en Guaviare, con enfoque agroambiental y cero deforestación, en el siguiente enlace.
-          .col-3
+          .col-12.col-lg-6
+            p.mb-3.mb-lg-0 Estrategia sectorial de la cadena de productos no maderables del bosque en Guaviare, con enfoque agroambiental y cero deforestación, en el siguiente enlace.
+          .col-12.col-lg-3.d-flex.justify-content-center
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo6.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 
 
-    p.mb-4 A continuación, se presenta un cuadro comparativo donde se ejemplifican dos productos forestales no maderables del bosque y cómo es su cadena productiva. Tenga en cuenta que el proceso en general es igual, sin embargo, el cliente final es diferente y el producto final va acorde con sus propios requerimientos e intereses.
+    p.mb-4(data-aos="fade-right") A continuación, se presenta un cuadro comparativo donde se ejemplifican dos productos forestales no maderables del bosque y cómo es su cadena productiva. Tenga en cuenta que el proceso en general es igual, sin embargo, el cliente final es diferente y el producto final va acorde con sus propios requerimientos e intereses.
 
-    .row.justify-content-center.mb-5
-      .col-8
+    .row.justify-content-center.mb-5(data-aos="fade-left")
+      .col-12.col-lg-8
         .tabla-b.color-acento-contenido
           table        
             tr.tabla-b__header
               th(colspan=2) 
                 h4.mb-0 Cadenas productivas de valor          
             tr
-              td    
+              td.border1    
                 p.mb-2 <b>Tagua o marfil vegetal</b>
                 a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
                   span Ver imagen
                   .indicador--click(v-if="mostrarIndicador")
-              td    
+              td        
                 p.mb-3 <b>Damagua</b>
                 a.boton.color-acento-botones(@click="modal2 = true")
                   span Ver imagen                  
             tr
-              td
+              td.border1    
                 p.mb-1 Cadena de valor
                 p.mb-0 ● Recolectores que distribuyen a artesanos de manera directa.
                 p.mb-0 ● Recolectores que venden a un acopiador, quien distribuye a los artesanos.
-              td                 
+              td    
                 p.mb-1 Cadena de valor
                 p.mb-0 ● Recolectores que distribuyen a artesanos de manera directa.
                 p.mb-0 ● Recolectores que venden a un acopiador, quien distribuye a los artesanos.
             tr
-              td
+              td.border1    
                 p.mb-1 Actores
                 p.mb-0 1- Recolectores
                 p.mb-0 2- Acopiadores
                 p.mb-0 3- Artesanos
-              td
+              td    
                 p.mb-1 Actores
                 p.mb-0 1- Recolectores
                 p.mb-0 2- Acopiadores
                 p.mb-0 3- Artesanos
             tr
-              td
+              td.border1    
                 p.mb-0 Sector empresarial demandante
                 p.mb-0 Mercado de artesanías y manufacturas.
-              td
+              td    
                 p.mb-0 Sector empresarial demandante
                 p.mb-0 Mercado de artesanías y manufacturas.
 
             tr
-              td
+              td.border1    
                 p.mb-0 Productos
                 p.mb-0 Collares, anillos, botones, etc.
-              td
+              td    
                 p.mb-0 Gorros, bolsos, billeteras individuales, flores, correas, zapatos y collares, entre otros.
 
         ModalA(:abrir-modal.sync="modal1")  
@@ -314,107 +314,107 @@
       #t_2_3.titulo-segundo.color-acento-contenido
         h2 2.3. Recursos:  Materiales e insumos
 
-      p.mb-5 Parte importante de los productos forestales no maderables son recursos, por lo que a continuación se mencionan algunos materiales e insumos de los PFNM. Se pueden dividir en recursos básicos u origen de donde se pueden obtener los productos finales. A continuación se presenta un recurso de aprendizaje que sintetiza algunos de ellos:
+      p.mb-5(data-aos="fade-left") Parte importante de los productos forestales no maderables son recursos, por lo que a continuación se mencionan algunos materiales e insumos de los PFNM. Se pueden dividir en recursos básicos u origen de donde se pueden obtener los productos finales. A continuación se presenta un recurso de aprendizaje que sintetiza algunos de ellos:
 
-      .row.justify-content-center.mb-5
-        .col-8
+      .row.justify-content-center.mb-5(data-aos="fade-right")
+        .col-12.col-lg-8
           .tabla-b.color-acento-contenido
             table        
               tr.tabla-b__header.p-0
                 th.p-2(colspan=3 style="height: 10px !important")      
               tr
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Árboles</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Arbustos</b>
                 td             
                   p.mb-0.text-center <b>Lianas</b>
               tr
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Bambú</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Palmas</b>
                 td             
                   p.mb-0.text-center <b>Hongos</b>
               tr
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Raíces</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Tallos</b>
                 td             
                   p.mb-0.text-center <b>Hojas</b>
               tr
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Flores</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Frutos</b>
                 td             
                   p.mb-0.text-center <b>Semillas</b>
               tr
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Molienda</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Picado y pelado</b>
                 td             
                   p.mb-0.text-center <b>Chancado</b>
 
       p.mb-0 Por otro lado, entre los productos no maderables que se obtiene del bosque en forma directa o indirecta (transformación), se encuentran los que se mencionan en la siguiente tabla, los cuales cumplen diferentes funciones para la comunidad y los actores que los usan al final de la producción, entre ellos están: 
       
-    .row.justify-content-center.mb-5
-        .col-2
-          img(src="@/assets/curso/tema2/img23.svg")
-        .col-8
+    .row.justify-content-center.mb-5.align-items-end(data-aos="fade-left")
+        .col-6.col-lg-2
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/img23.svg")
+        .col-12.col-lg-8
           .tabla-b.color-acento-contenido
             table        
               tr.tabla-b__header.p-0
                 th.p-2(colspan=3 style="height: 10px !important")      
               tr(style="background-color: white !important")
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Limpieza </b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Artesanías</b>
                 td             
                   p.mb-0.text-center <b>Exudados</b>
               tr(style="background-color: #F0F0F0 !important")
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Clasificación</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Especias</b>
                 td             
                   p.mb-0.text-center <b>Aceites esenciales</b>
               tr(style="background-color: white !important")
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Conservación</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Materiales de construcción</b>
                 td             
                   p.mb-0.text-center <b>Forraje</b>
               tr(style="background-color: #F0F0F0 !important")
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Envasado</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Colorantes</b>
                 td             
                   p.mb-0.text-center <b>Envoltura para alimentos</b>
               tr(style="background-color: white !important")
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Alimentos y bebidas</b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Insecticidas</b>
                 td             
                   p.mb-0.text-center <b>Artículos de limpieza</b>
               tr(style="background-color: #F0F0F0 !important")
-                td       
+                td.border1           
                   p.mb-0.text-center <b>Medicinales </b>
-                td   
+                td.border1       
                   p.mb-0.text-center <b>Recursos ornamentales </b>
                 td             
                   p.mb-0.text-center <b>Material de trabajo</b>
         .col-2
 
-    p.mb-4 En adición, se hace necesario aclarar que los productos forestales no maderables del bosque son los que provienen de otras partes de los bosques, por lo que no son por la tala de árboles. Entre estos últimos, estarían: 
+    p.mb-4(data-aos="fade-right") En adición, se hace necesario aclarar que los productos forestales no maderables del bosque son los que provienen de otras partes de los bosques, por lo que no son por la tala de árboles. Entre estos últimos, estarían: 
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")      
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-right")      
       img(src='@/assets/curso/tema2/img24.png')        
       img(src='@/assets/curso/tema2/img25.png')        
       img(src='@/assets/curso/tema2/img26.png')        
@@ -428,42 +428,42 @@
     .titulo-sexto.color-acento-contenido
       span Insumos.
 
-    SlyderB.mb-5(:datos="datosSlyder1")
+    SlyderB.mb-5(:datos="datosSlyder1" data-aos="fade-left")
 
-    .row.justify-content-center
-      .col-10.p-0
+    .row.justify-content-center(data-aos="fade-right")
+      .col-12.col-lg-10.p-0
         .tarjeta.degra4.p-4
           SlyderA(tipo="b")
             .row.justify-content-center
               .col-10.px-0
                 .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-                  .col-2
+                  .col-6.col-lg-2
                     img(src="@/assets/curso/tema2/img08.svg")
-                  .col-7
-                    p.mb-0 Productos forestales no maderables: importancia e impacto de su aprovechamiento, en el siguiente enlace.
-                  .col-3
+                  .col-12.col-lg-7
+                    p.mb-3.mb-lg-0 Productos forestales no maderables: importancia e impacto de su aprovechamiento, en el siguiente enlace.
+                  .col-12.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo7.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
             .row.justify-content-center
               .col-10.px-0
                 .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-                  .col-2
+                  .col-6.col-lg-2
                     img(src="@/assets/curso/tema2/img07.svg")
-                  .col-7
-                    p.mb-0 Productos forestales no maderables asociados a bosques de roble, en el siguiente enlace.
-                  .col-3
+                  .col-12.col-lg-7
+                    p.mb-3.mb-lg-0 Productos forestales no maderables asociados a bosques de roble, en el siguiente enlace.
+                  .col-12.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo8.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
             .row.justify-content-center
               .col-10.px-0
                 .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")
-                  .col-2
+                  .col-6.col-lg-2
                     img(src="@/assets/curso/tema2/img35.svg")
-                  .col-7
-                    p.mb-0 Manejo forestal comunitario.  Productos forestales no maderables y los artesanos de San Antonio de Yurumanguí, Colombia, en el siguiente enlace.
-                  .col-3
+                  .col-12.col-lg-7
+                    p.mb-3.mb-lg-0 Manejo forestal comunitario.  Productos forestales no maderables y los artesanos de San Antonio de Yurumanguí, Colombia, en el siguiente enlace.
+                  .col-12.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo9.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
@@ -473,14 +473,14 @@
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4. Insumos como productos forestales no maderables del bosque
 
-    p.mb-5 Los productos forestales no maderables del bosque son recolectados en varias regiones de Colombia con el fin de usarlos de forma natural, en infusiones, o transformarlos para que cumplan una función específica en las comunidades. A continuación, se muestran algunos de ellos en el siguiente recurso de aprendizaje.
-    .row.justify-content-center.mb-4
+    p.mb-5(data-aos="fade-left") Los productos forestales no maderables del bosque son recolectados en varias regiones de Colombia con el fin de usarlos de forma natural, en infusiones, o transformarlos para que cumplan una función específica en las comunidades. A continuación, se muestran algunos de ellos en el siguiente recurso de aprendizaje.
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-10
         img(src="@/assets/curso/tema2/img36.png")
     p.mb-4 Por otro lado, es vital hablar en este componente sobre los materiales de los productos forestales no maderables del bosque que son más usados actualmente, por lo tanto, se le invita a revisar la siguiente figura:
 
-    .row.justify-content-center
-        .col-lg-10
+    .row.justify-content-center(data-aos="fade-left")
+        .col-lg-10.ps-5.ps-lg-0
           ul.lista-ul--color.lista-ul--separador.position-relative
             li.d-flex.align-items-center 
             li.d-flex.align-items-center 
@@ -498,22 +498,22 @@
             
     Separador 
 
-    #t_2_4.titulo-segundo.color-acento-contenido
-      h2 2.4. Insumos como productos forestales no maderables del bosque
+    #t_2_5.titulo-segundo.color-acento-contenido
+      h2 2.5. Manejo de residuos no maderables del bosque
 
-    .row.justify-content-center.align-items-center.mb-4(style="background-color: #F6FAF0")
-      .col-lg-8.ps-5
+    .row.justify-content-center.align-items-center.mb-4(style="background-color: #F6FAF0" data-aos="fade-right")
+      .col-lg-8.ps-5.p-3
         p.mb-4 Sobre el manejo de los residuos no maderables del bosque no existen estudios, en especial porque estas actividades las ejercen las poblaciones que viven del aprovechamiento forestal de estos productos y generalmente estas tareas se realizan de forma individual, nunca como empresa, por lo cual, no se cuenta con registros sobre las partes no utilizadas en el aprovechamiento de los PFNM. La siguiente información corresponde a los residuos forestales que ocasionan la explotación de los bosques bajo el esquema de tala de árboles.
         p.mb-0 El manejo de los residuos no maderables del bosque, especialmente de los residuos del aprovechamiento de los productos no maderables, es mínimo, porque su recolección es selectiva; se puede asegurar que se hace planta por planta, por lo que no es un aprovechamiento sistemático ni mecanizado, así que los desperdicios son mínimos.
       .col-lg-4.p-0
         img(src="@/assets/curso/tema2/img41.png")
 
-    p.mb-4 Teniendo en cuenta lo anterior, se hace necesario revisar el uso principal de la tierra, porque los bosques realizan diferentes funciones: 
+    p.mb-4(data-aos="fade-left") Teniendo en cuenta lo anterior, se hace necesario revisar el uso principal de la tierra, porque los bosques realizan diferentes funciones: 
 
-    .row.justify-content-center.align-items-center
-      .col-lg-2.p-0
-        img(src="@/assets/curso/tema2/img42.svg")
-      .col-lg-10
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-6.col-lg-2.p-0
+        img.mb-3.mb-lg-0(src="@/assets/curso/tema2/img42.svg")
+      .col-12.col-lg-10
         p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Producción
         p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Protección (suelos y recursos hídricos)
         p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Conservación de la diversidad biológica 
@@ -582,6 +582,9 @@ export default {
 
 <style lang="sass">
 .tema2
+  .border1
+    border-right: 1px solid #707070 !important
+
   .lista-ol--separador li, .lista-ul--separador li
     border-bottom: solid 2px #AFAFAF;
     img

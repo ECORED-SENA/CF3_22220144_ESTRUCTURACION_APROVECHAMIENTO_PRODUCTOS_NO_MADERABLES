@@ -3,8 +3,8 @@
   .container.tarjeta.position-relative(
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
   )
-    .row.banner-principal__row.position-relative.justify-content-center.align-items-center.g-0      
-      .col-lg-6.banner-principal__info.py-0.ps-2
+    .row.banner-principal__row.position-relative.justify-content-center.align-items-center.g-0  
+      .col-lg-6.banner-principal__info.p-3
         .banner-principal__componente
           h1.mb-0(style="font-size: 2.625em" v-html="globalData.componenteFormativo")
         .col-lg-11
@@ -17,10 +17,10 @@
 
       .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img.d-flex.justify-content-center
         img(:src="globalData.imagenBannerPrincipal")    
-    .imagen_flotante_1: img(src="@/assets/curso/float1.png")
-    .imagen_flotante_2: img(src="@/assets/curso/float2.png")
-    .imagen_flotante_3: img(src="@/assets/curso/float3.png")    
-    .imagen_flotante_4: img(src="@/assets/curso/float4.png")    
+    .imagen_flotante_1.d-none.d-lg-block: img(src="@/assets/curso/float1.png")
+    .imagen_flotante_2.d-none.d-lg-block: img(src="@/assets/curso/float2.png")
+    .imagen_flotante_3.d-none.d-lg-block: img(src="@/assets/curso/float3.png")    
+    .imagen_flotante_4.d-none.d-lg-block: img(src="@/assets/curso/float4.png")    
     
   
 
