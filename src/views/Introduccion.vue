@@ -25,8 +25,8 @@
         .imagen-adornos-flotantes__img2.d-none.d-xl-block: img(src="@/assets/curso/intro/hoja2.png" style="left: ; right: -2% ; top: -10px ; bottom: 0% ; width: 98px ")            
 
     figure(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/ie4xZxgBJ6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

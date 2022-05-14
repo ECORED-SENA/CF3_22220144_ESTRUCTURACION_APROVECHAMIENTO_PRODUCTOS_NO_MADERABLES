@@ -176,8 +176,8 @@
     p.mb-4.text-center(data-aos="fade-left") Video clase sobre normatividad para productos forestales no maderables del bosque en Colombia.
 
     figure(data-aos="fade-right")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/9orYAFPV1Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

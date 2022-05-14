@@ -414,13 +414,25 @@
 
     p.mb-4(data-aos="fade-right") En adición, se hace necesario aclarar que los productos forestales no maderables del bosque son los que provienen de otras partes de los bosques, por lo que no son por la tala de árboles. Entre estos últimos, estarían: 
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-right")      
-      img(src='@/assets/curso/tema2/img24.png')        
-      img(src='@/assets/curso/tema2/img25.png')        
-      img(src='@/assets/curso/tema2/img26.png')        
-      img(src='@/assets/curso/tema2/img27.png')        
-      img(src='@/assets/curso/tema2/img28.png')        
-      img(src='@/assets/curso/tema2/img29.png')        
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-right")  
+      .slyderf.p-0.mb-0
+        img(src='@/assets/curso/tema2/img24.png')     
+        p.my-2.text-center <b>Semillas</b>
+      .slyderf.p-0.mb-0
+        img(src='@/assets/curso/tema2/img25.png')        
+        p.my-2.text-center <b>Hojas</b>
+      .slyderf.p-0.mb-0
+        img(src='@/assets/curso/tema2/img26.png')        
+        p.my-2.text-center <b>Hongos</b>
+      .slyderf.p-0.mb-0
+        img(src='@/assets/curso/tema2/img27.png')        
+        p.my-2.text-center <b>Fibras</b>
+      .slyderf.p-0.mb-0
+        img(src='@/assets/curso/tema2/img28.png')        
+        p.my-2.text-center <b>Frutos</b>
+      .slyderf.p-0.mb-0
+        img(src='@/assets/curso/tema2/img29.png')        
+        p.my-2.text-center <b>Miel de abejas</b>
 
     .cajon.color-acento-botones.p-4.px-3.mb-5 
       p.mb-0 Se le invita a revisar el siguiente recurso de aprendizaje, donde encontrará otros productos no maderables de los bosques que están siendo usados con diferentes fines:
@@ -475,8 +487,37 @@
 
     p.mb-5(data-aos="fade-left") Los productos forestales no maderables del bosque son recolectados en varias regiones de Colombia con el fin de usarlos de forma natural, en infusiones, o transformarlos para que cumplan una función específica en las comunidades. A continuación, se muestran algunos de ellos en el siguiente recurso de aprendizaje.
     .row.justify-content-center.mb-4(data-aos="fade-right")
-      .col-10
-        img(src="@/assets/curso/tema2/img36.png")
+      .col-12.col-lg-10
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src="@/assets/curso/tema2/img36.png")              
+
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="53.3%" y="23%" numero="")
+            p.mb-0 Formada a partir de la cicatrización de las acacias, es una sustancia que se utiliza en alimentos como chicles, gomas, pasteles y vinos, o en herramientas como tintes o pegamentos.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="59%" y="30%" numero="")
+            p.mb-0 Es un producto sacado de la corteza del Alcornoque. Su elasticidad y permeabilidad le dan una vida útil que se evidencia desde las empresas para tapones de vinos hasta de moda y diseño.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="62%" y="42%" numero="")
+            p.mb-0 Obtenido de la savia de varias plantas, se utiliza en todas las áreas de diseño, incluyendo la fabricación de llantas para carros.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="62%" y="55%" numero="")
+            p.mb-0 El famoso elemento utilizado en los anticonceptivos masculinos o los guantes de cirugía, se adquiere de las grasas, ceras y diversas resinas gomosas de diferentes plantas.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="59%" y="66.5%" numero="")
+            p.mb-0 Es una sustancia producida por el hongo <i>Penicillium notatum</i>, utilizada en casi todos los antibióticos humanos, gracias a su eficiente manejo en la eliminación de bacterias.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="53.3%" y="73%" numero="")
+            p.mb-0 Los pobladores consumen como alimento productos de origen animal (polen y miel de abejas), hongos silvestres y órganos vegetales como: tallos, hojas, frutos y semillas. El 38,9% de los alimentos de origen forestal se ingiere de forma directa y el 33,3% como ingredientes de comidas tradicionales. El 16,7% de las bebidas son preparados en infusión y el 11,1% en jugos.           
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="46.9%" y="73%" numero="")
+            p.mb-0 Se emplean hojas de epífitas del género <i>Anthurium</i>, usadas para envolver y conservar los alimentos, entre ellos los denominados popularmente como “envuelto”, preparados a base de maíz o choclo.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="41.2%" y="67%" numero="")
+            p.mb-0 Las plantas con agradables fragancias, son usadas en la cocina tradicional para dar aroma a las coladas o para tomar en infusión. Se conoció el uso de Congonilla (<i>Peperomia coquimbensis</i>) y Granizo (<i>Hedyosmum bonplandianum</i>), para aromatizar las bebidas.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="37.7%" y="55%" numero="")
+            p.mb-0 Los pobladores utilizan las hojas de Aliso (<i>Alnus acuminata)</i> para alimentar al ganado. La especie habita en potreros adyacentes a los bosques estudiados.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="37.9%" y="42%" numero="")
+            p.mb-0 Guambía (<i>Spigelia peduncu-lata</i>), es la planta conocida en la zona para eliminar hongos e insectos, y evitar su aparición y proliferación en cultivos agrícolas.
+          .tarjeta.p-3(style="background-color: #F6E8E4" x="41.2%" y="30%" numero="")
+            p.mb-0 Se emplean fustes de Helecho Arbóreo (<i>Cyathea sp.</i>), hojas de Palma de Cera (<i>Ceroxylon quindiuense</i>) y bejucos, como materia prima en la construcción de pequeños estaderos para el ganado.
+          .tarjeta.p-3(style="background-color: #F6E8E4; width: 350px" x="46.7%" y="23%" numero="")
+            p.mb-0 Se encontraron 40 productos usados para elaborar medicamentos o realizar rituales de sanación, de los cuales 2 son de origen animal (<i>propóleo y miel de abejas</i>) y el restante de origen vegetal, principalmente especies herbáceas como: Altamisa Grande (<i>Ambrosia arborescens</i>), Árnica de Páramo (<i>Senecio formosus</i>), Cola de Caballo (<i>Equisetum bogotense</i>), Cuasia (<i>Quassia amara</i>), Hineldo (<i>Anethum graveolens</i>), Orozuz (<i>Lippia dulcis</i>), Palo de Cruz (<i>Brownea ariza</i>), Ruda Castilla (<i>Ruta graveolens</i>), Poleo Grande (<i>Minthostachys tomento-sa</i>), Pronto Alivio (<i>Lippia alba</i>), Sauco (<i>Sambucus sp.</i>), entre otras.
+
     p.mb-4 Por otro lado, es vital hablar en este componente sobre los materiales de los productos forestales no maderables del bosque que son más usados actualmente, por lo tanto, se le invita a revisar la siguiente figura:
 
     .row.justify-content-center(data-aos="fade-left")
@@ -582,6 +623,11 @@ export default {
 
 <style lang="sass">
 .tema2
+  .slyderf
+    background-color: #E5EFD4 !important
+    border-radius: 20px
+    border: 1px solid white !important
+
   .border1
     border-right: 1px solid #707070 !important
 
