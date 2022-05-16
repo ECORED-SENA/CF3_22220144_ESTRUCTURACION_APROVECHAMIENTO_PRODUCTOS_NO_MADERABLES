@@ -568,15 +568,15 @@
       .col-10.px-5.py-3(style="background-color: #F6FAF0")
         p.mb-0.text-center Instituto Sinchi, esta es una organización colombiana que hace investigación en productos de la Amazonía colombiana, por lo que habla con conocimiento sobre los productos no maderables del bosque.
     figure.mb-5(data-aos="fade-right") 
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/iUCQcVPjf7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mb-0(data-aos="fade-left")
       .col-10.px-5.py-3(style="background-color: #FFF7E3")
         p.mb-0.text-center COP26, en noviembre del 2021, se realizó un evento mundial sobre cambio climático, por lo que evidentemente se debía hablar de los productos no maderables del bosque y su aporte a la sociedad.
     figure(data-aos="fade-right")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/va__ApRQdI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
