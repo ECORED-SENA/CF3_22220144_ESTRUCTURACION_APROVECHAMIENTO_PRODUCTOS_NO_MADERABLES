@@ -11,7 +11,7 @@
       .row.justify-content-center
         .col-xl-3.p-0    
           img.mb-3.mb-lg-0(src='@/assets/curso/tema1/img02.png')       
-        .col-xl-7.px-5.d-flex.align-items-center(style="background-color: #F1F6EA")          
+        .col-xl-7.px-5.d-flex.p-3.align-items-center(style="background-color: #F1F6EA")          
             p.mb-0 Existe un permiso que otorga la CAR, donde se concede el derecho a aprovechar bosques naturales ubicados en terrenos de dominio público o privado, para así legalizar estos cultivos y que su respectiva recolección sea de manera estructurada, con el objetivo de generar mejor calidad de los productos.
 
       Separador 
@@ -23,20 +23,20 @@
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-12.col-xl-3
-          .tarjeta-avatar
+          .tarjeta-avatar.mb-xl-0.mb-3
             img(src='@/assets/curso/tema1/img03.png' alt='AvatarTop')            
             .tarjeta.color-primario
               .p-3
                 h4.text-center Extracción
                 p.mb-0 Es la recolección o cosecha de los productos de flora del ecosistema natural.
-        .col-12.col-xl-3
+        .col-12.col-xl-3.mb-xl-0.mb-3
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/img04.png' alt='AvatarTop')            
             .tarjeta.color-primario
               .p-3
                 h4.text-center Poscosecha o transformación
                 p.mb-0 Hace referencia al acopio, la selección de productos, la limpieza, el empaque, la transformación y la elaboración de productos. 
-        .col-12.col-xl-3
+        .col-12.col-xl-3.mb-xl-0.mb-3
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/img05.png' alt='AvatarTop')            
             .tarjeta.color-primario              
@@ -50,13 +50,13 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-6.col-lg-2
-        img(src='@/assets/curso/tema1/img06.svg')            
+        img.mb-lg-0.mb-4(src='@/assets/curso/tema1/img06.svg')            
       .col-12.col-lg-4
         p.mb-0.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Investigación
         p.mb-0.px-4.py-1 <span style="color: #942E19">●</span> Capacitaciones
         p.mb-0.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Financiación planes de manejo
         p.mb-0.px-4.py-1 <span style="color: #942E19">●</span> Estrategias para desarrollo 
-        p.mb-0.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Fortalecimiento de dichas instituciones                
+        p.mb-lg-0.mb-4.px-4.py-1(style="background-color: #F6FAF0") <span style="color: #942E19">●</span> Fortalecimiento de dichas instituciones                
       .col-6.col-lg-2
         img(src='@/assets/curso/tema1/img07.svg') 
 
@@ -234,7 +234,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema1/img01.png")
@@ -259,7 +259,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema1/img10.png")

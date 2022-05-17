@@ -26,7 +26,7 @@
                 .col-6.col-lg-3
                   img.mb-3.mb-lg-0(src="@/assets/curso/tema2/img07.svg")
                 .col-12.col-lg-6
-                  p.mb-0 Para profundizar en el tema, se le invita a revisar el documento ¨Bosques para las personas, memorias del año internacional de los bosques, 2011¨, en el siguiente enlace. 
+                  p.mb-lg-0.mb-3 Para profundizar en el tema, se le invita a revisar el documento ¨Bosques para las personas, memorias del año internacional de los bosques, 2011¨, en el siguiente enlace. 
                 .col-12.col-lg-3.d-flex.justify-content-center
                   a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo10.pdf')" target="_blank" type="application/pdf")
                     span Descargar
@@ -53,7 +53,7 @@
             .col-6.col-lg-3
               img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img06.svg")
             .col-12.col-lg-6
-              p.mb-0 ¿Cuál es el riesgo por inundaciones en Colombia?, en el siguiente enlace.  
+              p.mb-lg-0.mb-3 ¿Cuál es el riesgo por inundaciones en Colombia?, en el siguiente enlace.  
             .col-12.col-lg-3.d-flex.justify-content-center
               a.boton.color-acento-botones.me-0(href="http://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2020/Cual-es-el-riesgo-por-inundaciones-en-Colombia.aspx" target="_blank" type="application/pdf")
                 span Enlace web
@@ -71,7 +71,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img07.svg")
                   .col-12.col-lg-7
-                    p.mb-0 Para contextualizar, se hace necesario revisar los Objetivos de Desarrollo Sostenible  y la Agenda al 2030 de la Unesco, en el siguiente enlace.
+                    p.mb-lg-0.mb-3 Para contextualizar, se hace necesario revisar los Objetivos de Desarrollo Sostenible  y la Agenda al 2030 de la Unesco, en el siguiente enlace.
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(href="https://es.unesco.org/sdgs" target="_blank" type="application/pdf")
                       span Enlace web
@@ -82,7 +82,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img08.svg")
                   .col-12.col-lg-7
-                    p.mb-0 Por otro lado, como resultado de formar parte activa de los países miembros de la Unesco, Colombia debe generar estrategias que vayan en línea directa con los 17 objetivos de la Agenda 2030. Para acceder a mayor información, puede visitar el siguiente enlace. 
+                    p.mb-lg-0.mb-3 Por otro lado, como resultado de formar parte activa de los países miembros de la Unesco, Colombia debe generar estrategias que vayan en línea directa con los 17 objetivos de la Agenda 2030. Para acceder a mayor información, puede visitar el siguiente enlace. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(href="https://ods.gov.co/es" target="_blank" type="application/pdf")
                       span Enlace web
@@ -93,7 +93,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img09.svg")
                   .col-12.col-lg-7
-                    p.mb-0 Finalmente, en la última reunión realizada en Glasgow en noviembre del 2021, se muestran los aportes de Colombia en temas de cambio climático y su respuesta al llamado por el cuidado del medio ambiente. 
+                    p.mb-lg-0.mb-3 Finalmente, en la última reunión realizada en Glasgow en noviembre del 2021, se muestran los aportes de Colombia en temas de cambio climático y su respuesta al llamado por el cuidado del medio ambiente. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(href="https://laud.udistrital.edu.co/noticias/compromisos-de-colombia-en-la-cop26" target="_blank" type="application/pdf")
                       span Enlace web
@@ -125,7 +125,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img12.svg")
                   .col-12.col-lg-7.px-3
-                    p.mb-0 Artículo 80 de la Constitución Política dispone que “El Estado planificará el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución. Además, deberá prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados”. 
+                    p.mb-lg-0.mb-3 Artículo 80 de la Constitución Política dispone que “El Estado planificará el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución. Además, deberá prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados”. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo11.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -136,7 +136,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img13.svg")
                   .col-12.col-lg-7.px-3
-                    p.mb-0 Artículo 79 de la Constitución Política de Colombia: “Todas las personas tienen derecho a gozar de un ambiente sano. La ley garantizará la participación de la comunidad en las decisiones para el logro de estos fines”. 
+                    p.mb-lg-0.mb-3 Artículo 79 de la Constitución Política de Colombia: “Todas las personas tienen derecho a gozar de un ambiente sano. La ley garantizará la participación de la comunidad en las decisiones para el logro de estos fines”. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo11.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -147,7 +147,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img14.svg")
                   .col-12.col-lg-7.px-3
-                    p.mb-0 Decreto 690 de 2021 (junio 24). “Por el cual se adiciona y modifica el Decreto Único Reglamentario 1076 de 2015, del sector de Ambiente y Desarrollo Sostenible, en lo relacionado con el manejo sostenible de la flora silvestre y los productos forestales no maderables, y se adoptan otras determinaciones”. 
+                    p.mb-lg-0.mb-3 Decreto 690 de 2021 (junio 24). “Por el cual se adiciona y modifica el Decreto Único Reglamentario 1076 de 2015, del sector de Ambiente y Desarrollo Sostenible, en lo relacionado con el manejo sostenible de la flora silvestre y los productos forestales no maderables, y se adoptan otras determinaciones”. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo12.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -158,7 +158,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img15.svg")
                   .col-12.col-lg-7.px-3
-                    p.mb-0 Plan Nacional de Desarrollo 2018 - 2022 "Pacto por Colombia, pacto por la equidad", adoptado mediante la Ley 1955 de 2019, contiene el pacto por la sostenibilidad "Producir conservando y conservar produciendo", que busca un equilibrio entre el desarrollo productivo y la conservación del ambiente, que potencie nuevas economías y asegure los recursos naturales para nuestras futuras generaciones
+                    p.mb-lg-0.mb-3 Plan Nacional de Desarrollo 2018 - 2022 "Pacto por Colombia, pacto por la equidad", adoptado mediante la Ley 1955 de 2019, contiene el pacto por la sostenibilidad "Producir conservando y conservar produciendo", que busca un equilibrio entre el desarrollo productivo y la conservación del ambiente, que potencie nuevas economías y asegure los recursos naturales para nuestras futuras generaciones
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(href="https://www.dnp.gov.co/DNPN/Paginas/Plan-Nacional-de-Desarrollo.aspx" target="_blank" type="application/pdf")
                       span Enlace web
@@ -170,7 +170,7 @@
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img16.svg")
                   .col-12.col-lg-7.px-3
                     p.mb-3 Decreto Ley 2811 de 1974. Justicia Ambiental, “Por el cual se reglamenta el Decreto ley 2811 de 1974 en materia de ordenación, manejo y aprovechamiento forestal y se adoptan otras determinaciones”.
-                    p.mb-0 Artículo 51. “El derecho de usar los recursos naturales renovables puede ser adquirido por ministerio de la ley, permiso, concesión y asociación”.
+                    p.mb-lg-0.mb-3 Artículo 51. “El derecho de usar los recursos naturales renovables puede ser adquirido por ministerio de la ley, permiso, concesión y asociación”.
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo13.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -181,7 +181,7 @@
                   .col-6.col-lg-2
                     img.mb-3.mb-lg-0(src="@/assets/curso/tema3/img17.svg")
                   .col-12.col-lg-7.px-3
-                    p.mb-0 El Artículo 199 del Código Nacional de los Recursos Naturales Renovables y Protección al Medio Ambiente define la flora silvestre como “…el conjunto de especies e individuos vegetales del territorio nacional que no se han plantado o mejorado por el hombre”. 
+                    p.mb-lg-0.mb-3 El Artículo 199 del Código Nacional de los Recursos Naturales Renovables y Protección al Medio Ambiente define la flora silvestre como “…el conjunto de especies e individuos vegetales del territorio nacional que no se han plantado o mejorado por el hombre”. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo14.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -190,7 +190,7 @@
               .col-12.col-lg-10
                 .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")                  
                   .col-12.col-lg-9.px-3
-                    p.mb-0 Decreto 1076 de 2015 establece en su artículo 2.2.1.1.2.2, en relación con el uso, manejo, aprovechamiento y conservación de los bosques y la flora silvestre, con el fin de lograr un desarrollo sostenible, entre otros, que "(...) d) El aprovechamiento sostenible de la flora silvestre y de los bosques es una estrategia de conservación y manejo del recurso. Por lo tanto, el Estado debe crear un ambiente propicio para las inversiones en materia ambiental y para el desarrollo del sector forestal". 
+                    p.mb-lg-0.mb-3 Decreto 1076 de 2015 establece en su artículo 2.2.1.1.2.2, en relación con el uso, manejo, aprovechamiento y conservación de los bosques y la flora silvestre, con el fin de lograr un desarrollo sostenible, entre otros, que "(...) d) El aprovechamiento sostenible de la flora silvestre y de los bosques es una estrategia de conservación y manejo del recurso. Por lo tanto, el Estado debe crear un ambiente propicio para las inversiones en materia ambiental y para el desarrollo del sector forestal". 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(href="https://funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="_blank" type="application/pdf")
                       span Enlace web
@@ -199,7 +199,7 @@
               .col-12.col-lg-10
                 .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")                  
                   .col-12.col-lg-9.px-3
-                    p.mb-0 3343 - Conpes. En el cual se trazan lineamientos y estrategias de desarrollo sostenible para los sectores de agua, ambiente y desarrollo territorial. Colombia enfrenta retos muy importantes en términos de degradación ambiental que comprometen su desarrollo económico sostenible, por lo cual se deben definir prioridades ambientales, el manejo sostenible de los recursos naturales, enfrentar las amenazas del ambiente sobre la salud y el bienestar de la población. 
+                    p.mb-lg-0.mb-3 3343 - Conpes. En el cual se trazan lineamientos y estrategias de desarrollo sostenible para los sectores de agua, ambiente y desarrollo territorial. Colombia enfrenta retos muy importantes en términos de degradación ambiental que comprometen su desarrollo económico sostenible, por lo cual se deben definir prioridades ambientales, el manejo sostenible de los recursos naturales, enfrentar las amenazas del ambiente sobre la salud y el bienestar de la población. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo16.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -216,11 +216,11 @@
       p.mb-5(data-aos="fade-right") Anteriormente, las poblaciones que aprovechaban estos recursos eran los indígenas, y la cantidad que usaban estaba supeditada a sus necesidades inmediatas, es decir:  para la alimentación, para curar sus enfermedades o materias primas para elaborar sus artículos de decoración, o artesanías. Sin embargo, el desarrollo de las poblaciones ha cambiado y la demanda por los productos forestales no maderables se ha incrementado, por lo que ahora se extrae más producto del bosque, debido a que este tipo de productos se están comercializando en mayor cantidad por empresas cuyo objetivo es meramente ganar utilidades en las ventas.
 
       .color1.row.justify-content-center.align-items-center.mb-4(style="background-color:#FFF7E3" data-aos="fade-right")
-        .col-12.col-lg-8.px-lg-5.px-3
+        .col-12.col-lg-8.px-lg-5.px-3.p-3
           p.mb-4 Por lo anterior, la creciente demanda de los productos forestales no maderables del bosque por las comunidades externas al bosque incrementa el aprovechamiento, el cual se realiza sin medir las consecuencias ni tener en cuenta un margen de sustentabilidad. 
           p.mb-lg-0.mb-3 Sin embargo, es vital aclarar que los aprovechamientos de madera en plantaciones forestales que se hacen con fines comerciales y empresariales si reforestan las zonas de donde se extrae el producto, asegurando un aprovechamiento sostenible, lo que no sucede con los productos forestales no maderables, que se aprovechan, pero no se resiembran, no se tiene la cultura de la sostenibilidad, solo se piensa en el hoy y no en el mañana.
         .col-8.col-lg-4.p-0
-          img(src="@/assets/curso/tema3/img20.png")
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img20.png")
 
       p.mb-4(data-aos="fade-left") Lo anterior es necesario analizarlo desde dos dimensiones del desarrollo sustentable: desde la visión del estado de actores externos a las zonas forestales y desde la visión de la sustentabilidad bajo la visión de las comunidades indígenas. Por lo tanto, se le invita a revisar el siguiente recurso de aprendizaje.
 
@@ -486,7 +486,7 @@
                   .col-6.col-lg-2
                     img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img07.svg")
                   .col-12.col-lg-7
-                    p.mb-0 Para profundizar en el tema de la normatividad existente sobre sistemas de gestión ambiental, se le invita a revisar los siguientes enlaces:  Familia de las normas ISO 14000.
+                    p.mb-lg-0.mb-3 Para profundizar en el tema de la normatividad existente sobre sistemas de gestión ambiental, se le invita a revisar los siguientes enlaces:  Familia de las normas ISO 14000.
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo17.pdf')" target="_blank" type="application/pdf")
                       span Descarga
@@ -498,7 +498,7 @@
                   .col-6.col-lg-2
                     img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img55.svg")
                   .col-12.col-lg-7
-                    p.mb-0 Para profundizar en el tema de la normatividad existente sobre sistemas de gestión ambiental, se le invita a revisar los siguientes enlaces:  Normas 14001.
+                    p.mb-lg-0.mb-3 Para profundizar en el tema de la normatividad existente sobre sistemas de gestión ambiental, se le invita a revisar los siguientes enlaces:  Normas 14001.
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank" type="application/pdf")
                       span Enlace web
@@ -510,7 +510,7 @@
                   .col-6.col-lg-2
                     img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img56.svg")
                   .col-12.col-lg-7
-                    p.mb-0 Para profundizar en el tema de la normatividad existente sobre sistemas de gestión ambiental, se le invita a revisar los siguientes enlaces:  Nueva Norma 14001:2015.
+                    p.mb-lg-0.mb-3 Para profundizar en el tema de la normatividad existente sobre sistemas de gestión ambiental, se le invita a revisar los siguientes enlaces:  Nueva Norma 14001:2015.
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo18.pdf')" target="_blank" type="application/pdf")
                       span Descarga
@@ -619,7 +619,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema3/img47.png")
@@ -664,7 +664,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema3/img19.svg")
@@ -705,7 +705,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema3/img04.png")
@@ -723,7 +723,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema3/img01.png")

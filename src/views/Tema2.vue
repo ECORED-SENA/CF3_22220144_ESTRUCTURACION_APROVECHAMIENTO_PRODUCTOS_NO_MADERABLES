@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-xl-3.p-0    
         img.mb-3.mb-lg-0(src='@/assets/curso/tema2/img01.png')       
-      .col-xl-7.px-5.d-flex.align-items-center(style="background-color: #F1F6EA")          
+      .col-xl-7.px-5.d-flex.p-3.align-items-center(style="background-color: #F1F6EA")          
         p.mb-0 Para la producción de recursos forestales no maderables, es importante tener en cuenta que para su desarrollo se necesita cumplir ciertos requisitos técnicos, los cuales son de origen natural, con el fin de cuidar y hacer sostenible el ecosistema en general. Estos tienen que ver con el equilibrio del bosque y son los encargados de regular la cantidad de precipitación de agua que se necesita para el cultivo.
 
     .row.justify-content-center.mb-0(data-aos="fade-right")
@@ -102,7 +102,7 @@
           .col-6.col-lg-3
             img(src="@/assets/curso/tema2/img08.svg")
           .col-12.col-lg-6
-            p.mb-0 Productos forestales no maderables: importancia e impacto de su aprovechamiento.
+            p.mb-3.mb-lg-0 Productos forestales no maderables: importancia e impacto de su aprovechamiento.
           .col-6.col-lg-3
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo3.pdf')" target="_blank" type="application/pdf")
               span Descargar
@@ -249,9 +249,10 @@
 
     p.mb-4(data-aos="fade-right") A continuación, se presenta un cuadro comparativo donde se ejemplifican dos productos forestales no maderables del bosque y cómo es su cadena productiva. Tenga en cuenta que el proceso en general es igual, sin embargo, el cliente final es diferente y el producto final va acorde con sus propios requerimientos e intereses.
 
-    .row.justify-content-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
+      .col-2
       .col-12.col-lg-8
-        .tabla-b.color-acento-contenido
+        .tabla-b.color-acento-contenido.mb-lg-0.mb-3
           table        
             tr.tabla-b__header
               th(colspan=2) 
@@ -300,6 +301,8 @@
                 p.mb-0 Collares, anillos, botones, etc.
               td    
                 p.mb-0 Gorros, bolsos, billeteras individuales, flores, correas, zapatos y collares, entre otros.
+      
+
 
         ModalA(:abrir-modal.sync="modal1")  
           img(src="@/assets/curso/tema2/img20.png")
@@ -308,7 +311,9 @@
           figure
             img(src="@/assets/curso/tema2/img21.png")
             figcaption Fuente: Imagen tomada de Escuela taller naranja. 
-
+      
+      .col-6.col-lg-2
+        img(src="@/assets/curso/tema2/img43.svg")
     .fondo1.mb-4
       Separador.
       #t_2_3.titulo-segundo.color-acento-contenido
@@ -659,7 +664,7 @@ export default {
       position: absolute
       top: 0
       left: 2.5%
-      width: 108%
+      width: 134%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema2/img22.png")
