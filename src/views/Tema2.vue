@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Requisitos normativos y de calidad
+      h1 Requerimientos técnicos para producción
     
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-xl-3.p-0    
@@ -75,8 +75,8 @@
     
     .row.justify-content-center.align-items-center.mb-5(style="background-color: #FFF7E3" data-aos="fade-right")
       .col-12.col-lg-8.px-5.py-3
-        p.mb-4 La construcción de caminos forestales es muy costosa en zonas de montaña. Por término medio, se construyen 30 m de camino forestal por hectárea en las zonas con pendientes mayores de 23°, y alrededor de 60 m en las zonas más llanas. Los costos de un camino con un carril (con apartaderos en caso de cruce de vehículos) suponen por término medio 51,000 USD por km, y en las zonas más llanas, 15,000 USD por km para un camino de doble carril. Los costos de acceso equivalen a 1,530 USD ha-1 en el caso de zonas montañosas y a 900 USD ha-1 en las zonas más llanas. Los costos de mantenimiento son del orden de 470 USD km-1 año-1.   
-        p.mb-0 Grado de mecanización posible por región y costos de acceso por hectárea. Región potencial de mecanización (% de área) Costos de caminos – valor promedio en función de la pendiente (USD ha-1) Eje Cafetero 20 1,404 Caribe 60 1,152 Orinoquía 90 963 *Montañosa > 23° de pendiente = 30 m ha-1; llana hasta ondulada < 23° de pendiente = 60 m ha. 
+        p.mb-4 La construcción de caminos forestales es muy costosa en zonas de montaña. Por término medio, se construyen 30 m de camino forestal por hectárea en las zonas con pendientes mayores de 23°, y alrededor de 60 m en las zonas más llanas. Los costos de un camino con un carril (con apartaderos en caso de cruce de vehículos) suponen por término medio 51,000 USD por km, y en las zonas más llanas, 15,000 USD por km para un camino de doble carril. Los costos de acceso equivalen a 1,530 USD ha<sup>-1</sup> en el caso de zonas montañosas y a 900 USD ha<sup>-1</sup> en las zonas más llanas. Los costos de mantenimiento son del orden de 470 USD km<sup>-1</sup> año<sup>-1</sup>.   
+        p.mb-0 Grado de mecanización posible por región y costos de acceso por hectárea. Región potencial de mecanización (% de área) Costos de caminos – valor promedio en función de la pendiente (USD ha<sup>-1</sup>) Eje Cafetero 20 1,404 Caribe 60 1,152 Orinoquía 90 963 *Montañosa > 23° de pendiente = 30 m ha<sup>-1</sup>; llana hasta ondulada < 23° de pendiente = 60 m ha.         
       .col-6.col-lg-4.p-0
         img(src='@/assets/curso/tema2/img06.png')       
 
@@ -188,7 +188,7 @@
             .degra2.p-3.py-4.mb-3.mb-xl-0.w-100
               div.px-5
                 img.mb-3(src="@/assets/curso/tema2/img16.svg")
-              p.mb-0.text-center Producción, abastecimiento, transformación  y
+              p.mb-0.text-center Producción, abastecimiento, transformación.
           .col-xl-4.d-flex
             .degra3.p-3.py-4.w-100
               div.px-5
@@ -209,8 +209,8 @@
         img.mb-3(src="@/assets/curso/tema2/img19.png")
       .col-xl-9
         p.mb-3 Por otro lado, a medida que se le da mayor valor agregado al producto forestal, se generan mayores utilidades para los beneficiarios primarios. Por lo anterior, se reconoce que los productos forestales no maderables (PFNM) son importantes para el bienestar de muchas comunidades rurales y contribuyen a los procesos de conservación de los bosques tropicales. Como una aproximación al conocimiento del impacto ocasionado por su aprovechamiento, se deben tener en cuenta las consecuencias de esta actividad en diferentes niveles ecológicos, tales como:
-        p.mb-0.px-4.py-1 <span style="color: #FFC846">●</span> El individuo, la población y los ecosistemas; además, 
-        p.mb-3.px-4.py-1 <span style="color: #FFC846">●</span> Las formas y los efectos del aprovechamiento que conlleven a un uso y manejo sostenible de 
+        p.mb-0.px-4.py-1 <span style="color: #FFC846">●</span> El individuo, la población y los ecosistemas.
+        p.mb-3.px-4.py-1 <span style="color: #FFC846">●</span> Las formas y los efectos del aprovechamiento que conlleven a un uso y manejo sostenible de PFNM.
         p.mb-0 Siguiendo con el tema, se hace prioritario el estudio de estos productos de una manera sistémica, por lo que se debe ir más allá del contexto ecológico y biológico, donde se involucren los componentes sociales, económicos, culturales y políticos, logrando el desarrollo de modelos predictivos que garanticen el no deterioro de estos recursos.
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
@@ -247,7 +247,10 @@
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 
 
-    p.mb-4(data-aos="fade-right") A continuación, se presenta un cuadro comparativo donde se ejemplifican dos productos forestales no maderables del bosque y cómo es su cadena productiva. Tenga en cuenta que el proceso en general es igual, sin embargo, el cliente final es diferente y el producto final va acorde con sus propios requerimientos e intereses.
+    p.mb-5(data-aos="fade-right") A continuación, se presenta un cuadro comparativo donde se ejemplifican dos productos forestales no maderables del bosque y cómo es su cadena productiva. Tenga en cuenta que el proceso en general es igual, sin embargo, el cliente final es diferente y el producto final va acorde con sus propios requerimientos e intereses.
+
+    p.mb-0 Cadena productiva
+    p.mb-4 Ejemplos de cadena productiva de productos no maderables del bosque
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-2
@@ -290,10 +293,10 @@
             tr
               td.border1    
                 p.mb-0 Sector empresarial demandante
-                p.mb-0 Mercado de artesanías y manufacturas.
+                p.mb-0 mercado de artesanías y manufacturas.
               td    
                 p.mb-0 Sector empresarial demandante
-                p.mb-0 Mercado de artesanías y manufacturas.
+                p.mb-0 mercado de artesanías y manufacturas.
 
             tr
               td.border1    
@@ -317,7 +320,7 @@
     .fondo1.mb-4
       Separador.
       #t_2_3.titulo-segundo.color-acento-contenido
-        h2 2.3. Recursos:  Materiales e insumos
+        h2 2.3. Recursos:  materiales e insumos
 
       p.mb-5(data-aos="fade-left") Parte importante de los productos forestales no maderables son recursos, por lo que a continuación se mencionan algunos materiales e insumos de los PFNM. Se pueden dividir en recursos básicos u origen de donde se pueden obtener los productos finales. A continuación se presenta un recurso de aprendizaje que sintetiza algunos de ellos:
 

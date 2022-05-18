@@ -120,7 +120,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.
+                    p Enlace web
             tr(style="background-color: #F0F0F0")
               td(colspan=6) Decreto 1076 de 2015, artículo 2.2.1.1.3.1
               td(colspan=1 align="center").ps-0
@@ -128,7 +128,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.
+                    p Enlace web
             tr(style="background-color: white")
               td(colspan=6) Resolución 224 de 2017 
               td(colspan=1 align="center").ps-0
@@ -136,7 +136,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.    
+                    p Enlace web
             tr(style="background-color: #F0F0F0")
               td(colspan=6) Acuerdo CAR 28 del 30 de noviembre de 2004
               td(colspan=1 align="center").ps-0
@@ -144,7 +144,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.    
+                    p Enlace web  
 
     Separador 
     #t_1_4.titulo-segundo.color-acento-contenido
@@ -169,7 +169,7 @@
           .col-12.col-lg-6
             p.mb-3.mb-lg-0 Las Corporaciones Autónomas Regionales son las encargadas de dar normatividad a la ciudadanía en relación al uso de no maderables, CAR 023 del 2009.
           .col-8.col-lg-3
-            a.boton.color-acento-botones.me-0(href="https://colombia.inaturalist.org/taxa/365688-Oenocarpus-bataua" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones.me-0(href="https://www.redjurista.com/Documents/acuerdo_23_de_2009_car_-_corporacion_autonoma_regional_de_cundinamarca.aspx#/" target="_blank" type="application/pdf")
               span Enlace web
               i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
 

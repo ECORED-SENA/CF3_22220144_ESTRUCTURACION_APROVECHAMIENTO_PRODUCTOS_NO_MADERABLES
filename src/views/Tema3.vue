@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-0
       .titulo-principal__numero
         span 3
-      h1 Requisitos normativos y de calidad
+      h1 Requerimientos ambientales aplicados al producto
 
     .fondo1.pt-5.mb-5
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
@@ -233,14 +233,14 @@
             img(src="@/assets/curso/tema3/img21.svg")       
             figcaption.d-none.d-md-block Fuente: Aprovechamiento sustentable de los recursos naturales desde la visión de las comunidades indígenas: Sierra Norte del Estado de Puebla http://www. http://www.scielo.org.mx/.     
 
-        .tarjeta.color-primario.p-3(x="57%" y="25%" numero="+")
-          p.mb-0 Desde el cuidado y respeto a los recursos naturales
-        .tarjeta.color-primario.p-3(x="95%" y="25%" numero="+")
-          p.mb-0 Desde lo material, espiritual y humano
-        .tarjeta.color-primario.p-3(x="95%" y="75%" numero="+")
-          p.mb-0 Desde la cultura y cosmovisión
-        .tarjeta.color-primario.p-3(x="57%" y="75%" numero="+")
-          p.mb-0 Desde la organización y el respeto
+        .tarjeta.color-primario.p-3(x="55.3%" y="23%" numero="+")
+          p.mb-0 Desde el cuidado y respeto a los recursos naturales.
+        .tarjeta.color-primario.p-3(x="95%" y="23%" numero="+")
+          p.mb-0 Desde lo material, espiritual y humano.
+        .tarjeta.color-primario.p-3(x="95%" y="83%" numero="+")
+          p.mb-0 Desde la cultura y cosmovisión.
+        .tarjeta.color-primario.p-3(x="55.3%" y="83%" numero="+")
+          p.mb-0 Desde la organización y el respeto.
 
       p.mb-0 Por todo lo anterior, para lograr una utilización racional de los recursos disponibles, es importante conocer la forma en que un grupo humano hace uso del territorio para posibilitar su subsistencia, y esto tiene que ver directamente con la forma en que son aprovechados los recursos naturales. Otros parámetros  a tener en cuenta en el aprovechamiento de los recursos naturales son las condiciones de vida en que viven las comunidades indígenas, los afrodescendientes y los campesinos; si se mejoran sus condiciones de vida, disminuirá la presión por los productos forestales no maderables como medio de sustento de sus vidas.
 
@@ -360,7 +360,7 @@
     Separador
 
     #t_3_4.titulo-segundo.color-acento-contenido
-      h2 3.4 Impactos ambientales
+      h2 3.4 Normatividad internacional de sistemas de gestión de ambientes aplicables
 
     p.mb-4(data-aos="fade-left") Cada país debe legislar para cuidar y preservar sus recursos naturales, además, existen también organismos internacionales como la FAO, la Organización de las Naciones Unidas para la Alimentación y la Agricultura, cuyo principal objetivo “<i>es lograr un mundo en el que impere la seguridad alimentaria, elevando los niveles de nutrición, mejorando la productividad agrícola y las condiciones de la población rural, por lo que se espera contribuir a la expansión de la economía mundial</i>”.
 
@@ -392,7 +392,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.
+                    p Enlace web
             tr(style="background-color: #F0F0F0")
               td.border1(colspan=2) 
                 img(src="@/assets/curso/tema3/img44.png") 
@@ -403,7 +403,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.
+                    p Enlace web
             tr(style="background-color: white")
               td.border1(colspan=2) 
                 img(src="@/assets/curso/tema3/img45.png")    
@@ -414,7 +414,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.
+                    p Enlace web
             tr(style="background-color: #F0F0F0")
               td.border1(colspan=2) 
                 img(src="@/assets/curso/tema3/img46.png") 
@@ -425,7 +425,7 @@
                   .anexo__icono
                     img(src="@/assets/curso/tema1/img12.svg")
                   .anexo__texto
-                    p Enlace web.
+                    p Enlace web
 
 
     .fondo6.mb-4
