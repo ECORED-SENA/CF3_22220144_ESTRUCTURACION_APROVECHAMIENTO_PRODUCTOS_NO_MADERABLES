@@ -165,139 +165,61 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Instituto Sinchi. (s. f.). Asoprocegua. Negocios Amazónicos.',
+      link: 'https://sinchi.org.co/negocios/asoprocegua',
+    },
+    {
+      referencia:
+        'Ley 165 de 1994. [Ministerio de Ambiente y Desarrollo Sostenible]. Convenio de las Naciones Unidas sobre diversidad biológica.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/12/Ley_165_de_1994_Convenio_Diversidad_Biologica.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'López, R. (2008). Productos forestales no maderables: Importancia e impacto de su aprovechamiento. Revista Colombiana Forestal, 11, p. 215-231.',
+      link: 'http://www.scielo.org.co/pdf/cofo/v11n1/v11n1a14.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Potosí-Gutiérrez, A., Villalba-Malaver, J. y Arboleda-Pino, L. (2017). Productos forestales no maderables asociados a bosques de roble Quercus humboldtii Bonpl en La Vega, Cauca. Biotecnología en el Sector Agropecuario y Agroindustrial, 15(2), p. 22-29.',
+      link: 'http://www.scielo.org.co/pdf/bsaa/v15n2/v15n2a03.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Factores ambientales',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Un factor ambiental, factor ecológico o eco factor es cualquier factor, abiótico o biótico, que influye en los organismos vivos.  Los factores abióticos incluyen la temperatura ambiente, la cantidad de luz solar y el pH del agua del suelo en el que vive un organismo.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Manejo sostenible',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Planificación y ejecución de prácticas sostenibles para el manejo, uso y aprovechamiento de la flora silvestre y de los productos forestales no maderables, que, salvaguardando el equilibrio de los ecosistemas y sus funciones, permitan mejorar la producción de bienes y servicios, apoyadas en la evaluación de su estructura, características intrínsecas y potencial, respetando los usos tradicionales y el valor cultural.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Producción forestal',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Proceso en el cual se realiza la preparación y/o acondicionamiento del área de siembra, selección y plantación de semillas, plántulas y árboles, según las necesidades del cultivo, de igual manera, la construcción o adecuación del ambiente de propagación, preparación de sustrato, siembra para enraizamiento.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino:
+        'Protocolo para el manejo sostenible de la flora silvestre y de los productos forestales no maderables',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Documento técnico que contiene los lineamientos para el manejo sostenible de la flora silvestre y de los productos forestales no maderables.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'Instituto Sinchi. (2021). Productos forestales no maderables y cadena de valor [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=iUCQcVPjf7k',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Visión Amazonía. (2021). Aprovechamiento sostenible de productos no maderables del bosque [Video]. YouTube.',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://www.youtube.com/watch?v=va__ApRQdI0',
     },
   ],
   creditos: {
