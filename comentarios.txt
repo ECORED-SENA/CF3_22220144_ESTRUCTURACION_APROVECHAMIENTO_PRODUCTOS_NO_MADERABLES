@@ -1,4 +1,4 @@
-H5 - Pendiente hacer la sintesis
-H16 - Pendiente
-H17 - Pendiente
-H20 - Pendiente
+H38 : El diseñador ha determinado que la calidad de la imagen es correcta y no es necesario hacer ajuste al respecto.
+H39 : Se remplaza el pdf con el ajuste hecho por el diseñador
+H41 : Se remplaza la imagen con el ajuste hecho por el diseñador
+H47 : Se remplaza la imagen con el ajuste hecho por el diseñador
