@@ -95,7 +95,7 @@
                   .col-12.col-lg-7
                     p.mb-lg-0.mb-3 Finalmente, en la última reunión realizada en Glasgow en noviembre del 2021, se muestran los aportes de Colombia en temas de cambio climático y su respuesta al llamado por el cuidado del medio ambiente. 
                   .col-12.col-lg-3.d-flex.justify-content-center
-                    a.boton.color-acento-botones.me-0(href="https://laud.udistrital.edu.co/noticias/compromisos-de-colombia-en-la-cop26" target="_blank" type="application/pdf")
+                    a.boton.color-acento-botones.me-0(href="https://www.radionacional.co/actualidad/medio-ambiente/colombia-en-la-cop26-temas-clave-que-deja-su-participacion" target="_blank" type="application/pdf")
                       span Enlace web
                       i.fas.fa-link.p-1(style="background-color:#FFFFFF; color: #942E19")
     
@@ -103,7 +103,7 @@
       .col-12.col-lg-10.fondo3
         .row.mb-5
           .col-lg-7.pe-0
-            p.mb-4 En línea con lo anterior, actualmente es primordial tener en cuenta las diferentes leyes, decretos, resoluciones, documentos conpes, planes de desarrollo, ya sean estos locales, departamentales o el nacional, y demás normas que mitiguen el impacto ambiental actual, respecto al aprovechamiento de los productos forestales maderables y no maderables del bosque.
+            p.mb-4 En línea con lo anterior, actualmente es primordial tener en cuenta las diferentes leyes, decretos, resoluciones, documentos CONPES, planes de desarrollo, ya sean estos locales, departamentales o el nacional, y demás normas que mitiguen el impacto ambiental actual, respecto al aprovechamiento de los productos forestales maderables y no maderables del bosque.
             p.mb-0 Por otro lado, reflexionar y concientizar sobre la explotación indiscriminada de los recursos naturales sin pensar en un uso sostenible debe llevar a que los individuos, las empresas, las industrias y los organismos involucrados en el aprovechamiento de los recursos naturales conozcan, apliquen y fortalezcan el uso adecuado de las normas ambientales antes de iniciar sus labores de aprovechamiento. 
         
         p.mb-3 Para reflexionar…        
@@ -199,7 +199,7 @@
               .col-12.col-lg-10
                 .row.justify-content-center.align-items-center.py-3(Style="background-color: #FFF7E3")                  
                   .col-12.col-lg-9.px-3
-                    p.mb-lg-0.mb-3 3343 - Conpes. En el cual se trazan lineamientos y estrategias de desarrollo sostenible para los sectores de agua, ambiente y desarrollo territorial. Colombia enfrenta retos muy importantes en términos de degradación ambiental que comprometen su desarrollo económico sostenible, por lo cual se deben definir prioridades ambientales, el manejo sostenible de los recursos naturales, enfrentar las amenazas del ambiente sobre la salud y el bienestar de la población. 
+                    p.mb-lg-0.mb-3 3343 - CONPES. En el cual se trazan lineamientos y estrategias de desarrollo sostenible para los sectores de agua, ambiente y desarrollo territorial. Colombia enfrenta retos muy importantes en términos de degradación ambiental que comprometen su desarrollo económico sostenible, por lo cual se deben definir prioridades ambientales, el manejo sostenible de los recursos naturales, enfrentar las amenazas del ambiente sobre la salud y el bienestar de la población. 
                   .col-12.col-lg-3.d-flex.justify-content-center
                     a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo16.pdf')" target="_blank" type="application/pdf")
                       span Descargar
@@ -467,7 +467,7 @@
         p.mb-4.text-center La norma ISO 14001 en su gestión ambiental demanda que cada empresa debe crear un Plan de Manejo Ambiental, este plan debe contener por lo menos los siguientes elementos:
 
         .titulo-sexto.color-acento-contenido
-          span Toda empresa debe incorporar un sistema de gestión medioambiental, con el fin de reducir cualquier impacto sobre su contexto directo..
+          span Toda empresa debe incorporar un sistema de gestión medioambiental, con el fin de reducir cualquier impacto sobre su contexto directo.
         img.mb-4(src="@/assets/curso/tema3/img53.png") 
 
         p.mb-4.text-center La importancia de las normas en la Gestión Ambiental radica en que estas:

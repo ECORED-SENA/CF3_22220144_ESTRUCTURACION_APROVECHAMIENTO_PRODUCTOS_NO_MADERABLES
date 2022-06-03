@@ -165,7 +165,7 @@
           .col-6.col-lg-3
             img(src="@/assets/curso/tema2/img07.svg")
           .col-12.col-lg-6
-            p.mb-3.mb-lg-0 Para profundizar en la cadena productiva de la guadua en Colombia, se le invita a revisar el enlace .
+            p.mb-3.mb-lg-0 Para profundizar en la cadena productiva de la guadua en Colombia, se le invita a revisar el enlace.
           .col-12.col-lg-3.d-flex.justify-content-center
             a.boton.color-acento-botones.me-0(:href="obtenerLink('downloads/anexo4.pdf')" target="_blank" type="application/pdf")
               span Descarga
@@ -569,8 +569,8 @@
         p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Provisión de servicios sociales (actividades recreativas)
         p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Turismo
         p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Educación
-        p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Investigación y/o 
-        p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Conservación de centros de importancia cultural/espiritual) o
+        p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Investigación
+        p.mb-0.px-4.py-0 <span style="color: #942E19">●</span> Conservación de centros de importancia cultural/espiritual
         p.mb-4.px-4.py-0 <span style="color: #942E19">●</span> Usos múltiples.  
 
         .cajon.color-acento-contenido.p-4.px-5.mx-4 

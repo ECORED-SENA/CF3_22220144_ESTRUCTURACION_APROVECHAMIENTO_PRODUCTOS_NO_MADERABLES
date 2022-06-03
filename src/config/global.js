@@ -166,7 +166,6 @@ export default {
     {
       referencia:
         'Instituto Sinchi. (s. f.). Asoprocegua. Negocios Amazónicos.',
-      link: 'https://sinchi.org.co/negocios/asoprocegua',
     },
     {
       referencia:

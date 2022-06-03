@@ -27,21 +27,21 @@
             img(src='@/assets/curso/tema1/img03.png' alt='AvatarTop')            
             .tarjeta.color-primario
               .p-3
-                h4.text-center Extracción
+                h4.text-center.mb-4 Extracción
                 p.mb-0 Es la recolección o cosecha de los productos de flora del ecosistema natural.
         .col-12.col-xl-3.mb-xl-0.mb-3
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/img04.png' alt='AvatarTop')            
             .tarjeta.color-primario
               .p-3
-                h4.text-center Poscosecha o transformación
+                h4.text-center.mb-4 Poscosecha o transformación
                 p.mb-0 Hace referencia al acopio, la selección de productos, la limpieza, el empaque, la transformación y la elaboración de productos. 
         .col-12.col-xl-3.mb-xl-0.mb-3
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/img05.png' alt='AvatarTop')            
             .tarjeta.color-primario              
               .p-3
-                h4.text-center Mercadeo
+                h4.text-center.mb-4 Mercadeo
                 p.mb-0 Es la comercialización de las materias primas o productos finales obtenidos.
 
     .row.justify-content-center.mb-4(data-aos="fade-left")
@@ -207,7 +207,7 @@ export default {
     .tarjeta
       padding-top: 50px !important
       background-color: #F6E8E4
-      height: 100px
+      height: 110px
       width: 100%
       overflow: hidden
       transition: .5s ease
